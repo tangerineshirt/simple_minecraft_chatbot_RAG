@@ -1,0 +1,293 @@
+# Minecraft Crafting Recipes Knowledge Base
+
+## Crafting Table
+A crafting table is crafted using 4 wooden planks.
+Place 4 wooden planks in a 2x2 crafting grid.
+
+## Wooden Planks
+Wooden planks are crafted from logs.
+1 log creates 4 wooden planks.
+
+## Sticks
+Sticks are crafted using 2 wooden planks.
+Place 2 wooden planks vertically to create 4 sticks.
+
+## Torch
+A torch is crafted using 1 stick and 1 coal or charcoal.
+Place coal or charcoal above a stick.
+
+## Furnace
+A furnace is crafted using 8 cobblestone.
+Place cobblestone around the crafting grid and leave the center empty.
+
+## Chest
+A chest is crafted using 8 wooden planks.
+Place wooden planks around the crafting grid and leave the center empty.
+
+## Door
+A wooden door is crafted using 6 wooden planks.
+Place the planks in two vertical columns.
+
+## Ladder
+A ladder is crafted using 7 sticks.
+Place sticks on the left and right columns, and one stick in the center.
+
+## Bed
+A bed is crafted using 3 wool and 3 wooden planks.
+Place 3 wool in the top row and 3 wooden planks below them.
+The wool must be the same color.
+
+## Shield
+A shield is crafted using 6 wooden planks and 1 iron ingot.
+Place the iron ingot in the top middle slot and arrange the planks around it.
+
+## Bow
+A bow is crafted using 3 sticks and 3 strings.
+Place sticks in a curved shape and strings in a vertical line.
+
+## Arrow
+Arrows are crafted using 1 flint, 1 stick, and 1 feather.
+Place flint on top, stick in the middle, and feather at the bottom.
+This creates 4 arrows.
+
+## Sword
+A sword is crafted using 1 stick and 2 material items.
+The material can be wood planks, stone, iron ingots, gold ingots, diamonds, or netherite.
+Place 2 material items vertically above 1 stick.
+
+## Pickaxe
+A pickaxe is crafted using 3 material items and 2 sticks.
+Place 3 material items across the top row and 2 sticks vertically in the center.
+The material can be wood planks, cobblestone, iron ingots, gold ingots, diamonds, or netherite.
+
+## Axe
+An axe is crafted using 3 material items and 2 sticks.
+Place the material items in an upper corner shape and place 2 sticks vertically below.
+The material can be wood planks, cobblestone, iron ingots, gold ingots, diamonds, or netherite.
+
+## Shovel
+A shovel is crafted using 1 material item and 2 sticks.
+Place the material item on top and 2 sticks vertically below.
+The material can be wood planks, cobblestone, iron ingots, gold ingots, diamonds, or netherite.
+
+## Hoe
+A hoe is crafted using 2 material items and 2 sticks.
+Place 2 material items on the top row and 2 sticks vertically below.
+The material can be wood planks, cobblestone, iron ingots, gold ingots, diamonds, or netherite.
+
+## Helmet
+A helmet is crafted using 5 armor materials.
+Place 3 materials on the top row and 2 materials on the left and right of the middle row.
+The material can be leather, iron ingots, gold ingots, diamonds, or netherite.
+
+## Chestplate
+A chestplate is crafted using 8 armor materials.
+Fill every slot except the top middle slot.
+The material can be leather, iron ingots, gold ingots, diamonds, or netherite.
+
+## Leggings
+Leggings are crafted using 7 armor materials.
+Fill the top row and the left and right columns, leaving the center and bottom middle empty.
+The material can be leather, iron ingots, gold ingots, diamonds, or netherite.
+
+## Boots
+Boots are crafted using 4 armor materials.
+Place materials in the bottom left, bottom right, middle left, and middle right slots.
+The material can be leather, iron ingots, gold ingots, diamonds, or netherite.
+
+## Bucket
+A bucket is crafted using 3 iron ingots.
+Place iron ingots in a V shape.
+
+## Shears
+Shears are crafted using 2 iron ingots.
+Place the iron ingots diagonally.
+
+## Flint and Steel
+Flint and steel is crafted using 1 iron ingot and 1 flint.
+Place flint and an iron ingot diagonally.
+
+## Compass
+A compass is crafted using 4 iron ingots and 1 redstone dust.
+Place redstone dust in the center and iron ingots above, below, left, and right of it.
+
+## Clock
+A clock is crafted using 4 gold ingots and 1 redstone dust.
+Place redstone dust in the center and gold ingots above, below, left, and right of it.
+
+## Map
+A map is crafted using 8 paper and 1 compass.
+Place the compass in the center and surround it with paper.
+
+## Paper
+Paper is crafted using 3 sugar cane.
+Place 3 sugar cane in a horizontal row.
+This creates 3 paper.
+
+## Book
+A book is crafted using 3 paper and 1 leather.
+
+## Bookshelf
+A bookshelf is crafted using 6 wooden planks and 3 books.
+Place 3 planks on the top row, 3 books in the middle row, and 3 planks on the bottom row.
+
+## Enchantment Table
+An enchantment table is crafted using 4 obsidian, 2 diamonds, and 1 book.
+Place the book in the top middle slot, diamonds on the left and right of the middle row, obsidian in the center, and 3 obsidian on the bottom row.
+
+## Crafting a Nether Portal
+A Nether portal is not crafted in a crafting table.
+A Nether portal is built using obsidian blocks and activated with flint and steel.
+The minimum portal frame uses 10 obsidian if corners are omitted, or 14 obsidian with corners.
+
+## Bread
+Bread is crafted using 3 wheat.
+Place 3 wheat in a horizontal row.
+
+## Cake
+A cake is crafted using 3 milk buckets, 2 sugar, 1 egg, and 3 wheat.
+Place milk buckets on the top row, sugar on the left and right of the middle row, egg in the center, and wheat on the bottom row.
+
+## Cookie
+Cookies are crafted using 2 wheat and 1 cocoa bean.
+Place the cocoa bean between the wheat.
+This creates 8 cookies.
+
+## Fishing Rod
+A fishing rod is crafted using 3 sticks and 2 strings.
+Place sticks diagonally and strings down from the top-right side.
+
+## Boat
+A boat is crafted using 5 wooden planks.
+Place planks in a U shape.
+
+## Minecart
+A minecart is crafted using 5 iron ingots.
+Place iron ingots in a U shape.
+
+## Rail
+Rails are crafted using 6 iron ingots and 1 stick.
+Place iron ingots on the left and right columns and a stick in the center.
+This creates 16 rails.
+
+## Powered Rail
+Powered rails are crafted using 6 gold ingots, 1 stick, and 1 redstone dust.
+Place gold ingots on the left and right columns, a stick in the center, and redstone dust at the bottom middle.
+This creates 6 powered rails.
+
+## Redstone Torch
+A redstone torch is crafted using 1 redstone dust and 1 stick.
+Place redstone dust above a stick.
+
+## Lever
+A lever is crafted using 1 stick and 1 cobblestone.
+Place the stick above the cobblestone.
+
+## Button
+A button can be crafted from 1 stone or 1 wooden plank.
+Stone creates a stone button.
+Wooden planks create a wooden button.
+
+## Pressure Plate
+A pressure plate is crafted using 2 matching blocks or planks placed side by side.
+Wooden planks create a wooden pressure plate.
+Stone creates a stone pressure plate.
+
+## Trapdoor
+A trapdoor is crafted using 6 wooden planks.
+Place planks in two horizontal rows.
+This creates 2 trapdoors.
+
+## Fence
+A fence is crafted using wooden planks and sticks.
+Place sticks in the center column and wooden planks on both sides.
+This creates 3 fences.
+
+## Fence Gate
+A fence gate is crafted using 2 wooden planks and 4 sticks.
+Place planks in the center column and sticks on both sides.
+
+## Sign
+A sign is crafted using 6 wooden planks and 1 stick.
+Place 6 planks in the top two rows and a stick in the bottom middle.
+This creates 3 signs.
+
+## Barrel
+A barrel is crafted using sticks and wooden slabs in Java Edition.
+In Java Edition, place wooden slabs in the top middle and bottom middle, with sticks on the sides.
+Recipes may differ between Java Edition and Bedrock Edition.
+
+## Campfire
+A campfire is crafted using 3 sticks, 1 coal or charcoal, and 3 logs.
+Place coal or charcoal in the center, sticks around it, and logs on the bottom row.
+
+## Anvil
+An anvil is crafted using 3 iron blocks and 4 iron ingots.
+Place 3 iron blocks on the top row, 1 iron ingot in the center, and 3 iron ingots on the bottom row.
+
+## Blast Furnace
+A blast furnace is crafted using 5 iron ingots, 1 furnace, and 3 smooth stone.
+Place the furnace in the center, smooth stone on the bottom row, and iron ingots around the top and sides.
+
+## Smoker
+A smoker is crafted using 1 furnace and 4 logs or stems.
+Place the furnace in the center and logs above, below, left, and right of it.
+
+## Grindstone
+A grindstone is crafted using 2 sticks, 1 stone slab, and 2 wooden planks.
+Place the stone slab in the top middle, sticks on the top left and top right, and planks below the sticks.
+
+## Stonecutter
+A stonecutter is crafted using 1 iron ingot and 3 stone.
+Place the iron ingot in the center and 3 stone on the bottom row.
+
+## Smithing Table
+A smithing table is crafted using 2 iron ingots and 4 wooden planks.
+Place iron ingots on the top row and wooden planks below.
+
+## Cartography Table
+A cartography table is crafted using 2 paper and 4 wooden planks.
+Place paper on the top row and wooden planks below.
+
+## Fletching Table
+A fletching table is crafted using 2 flint and 4 wooden planks.
+Place flint on the top row and wooden planks below.
+
+## Loom
+A loom is crafted using 2 strings and 2 wooden planks.
+Place strings on the top row and planks below.
+
+## Composter
+A composter is crafted using wooden slabs.
+Place wooden slabs in a U shape.
+
+## Beehive
+A beehive is crafted using 6 wooden planks and 3 honeycomb.
+Place planks on the top and bottom rows and honeycomb in the middle row.
+
+## TNT
+TNT is crafted using 5 gunpowder and 4 sand or red sand.
+Place gunpowder and sand in an alternating pattern.
+
+## Firework Rocket
+A firework rocket is crafted using paper and gunpowder.
+Optional firework stars can be added for explosion effects.
+
+## Firework Star
+A firework star is crafted using gunpowder and dye.
+Additional ingredients can change the firework effect.
+
+## Eye of Ender
+An eye of ender is crafted using 1 ender pearl and 1 blaze powder.
+
+## Blaze Powder
+Blaze powder is crafted from blaze rods.
+1 blaze rod creates 2 blaze powder.
+
+## Ender Chest
+An ender chest is crafted using 8 obsidian and 1 eye of ender.
+Place the eye of ender in the center and surround it with obsidian.
+
+## Beacon
+A beacon is crafted using 5 glass, 3 obsidian, and 1 nether star.
+Place glass on the top row, glass on the left and right of the middle row, the nether star in the center, and obsidian on the bottom row.

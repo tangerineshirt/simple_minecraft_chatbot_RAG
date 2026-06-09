@@ -1,0 +1,463 @@
+# Minecraft Mobs Knowledge Base
+
+## Creeper
+Type: Hostile mob.
+Common location: Dark areas in the Overworld, especially at night or in unlit spaces.
+Behavior: Creepers silently approach players and explode after getting close. Their explosion can damage players, mobs, and blocks.
+Drops: Gunpowder. If killed by a skeleton or stray, a creeper can drop a music disc. A charged creeper can cause certain mobs to drop mob heads.
+Tips: Keep distance, use a shield to reduce explosion damage, light up areas to prevent spawning, and avoid letting creepers approach buildings.
+
+## Zombie
+Type: Hostile undead mob.
+Common location: Dark areas in the Overworld.
+Behavior: Zombies walk toward players and attack in melee range. They can burn in sunlight unless protected by shade, water, or equipment.
+Drops: Rotten flesh. They can rarely drop iron ingots, carrots, potatoes, or equipped items.
+Tips: Use a sword, axe, bow, or shield. Keep villages protected because zombies can attack villagers.
+
+## Skeleton
+Type: Hostile undead mob.
+Common location: Dark areas in the Overworld.
+Behavior: Skeletons attack players from a distance using bows. They can burn in sunlight unless protected by shade, water, or equipment.
+Drops: Bones, arrows, and sometimes bows.
+Tips: Use a shield to block arrows, close the distance carefully, or attack with a bow.
+
+## Spider
+Type: Neutral or hostile mob depending on light level.
+Common location: Overworld, especially at night or in dark areas.
+Behavior: Spiders climb walls and attack players in low light. In bright light, they may become neutral unless attacked.
+Drops: String and spider eyes.
+Tips: Be careful near walls and caves because spiders can climb over obstacles.
+
+## Cave Spider
+Type: Hostile mob.
+Common location: Mineshafts, usually from cave spider spawners.
+Behavior: Cave spiders are smaller than normal spiders and can poison players.
+Drops: String and spider eyes.
+Tips: Carry milk to remove poison and block spawner areas carefully.
+
+## Enderman
+Type: Neutral mob.
+Common location: Overworld, Nether, and End dimensions.
+Behavior: Endermen are tall mobs that teleport. They become hostile if the player looks directly at their face or attacks them.
+Drops: Ender pearls.
+Tips: Avoid eye contact, fight under a two-block-high shelter, or use water because Endermen avoid water.
+
+## Witch
+Type: Hostile mob.
+Common location: Swamp huts, raids, and dark areas.
+Behavior: Witches throw harmful splash potions and drink potions to heal or protect themselves.
+Drops: Glowstone dust, redstone dust, glass bottles, sticks, sugar, spider eyes, and gunpowder.
+Tips: Attack quickly from range or close in before the witch can heal repeatedly.
+
+## Slime
+Type: Hostile mob.
+Common location: Slime chunks underground and swamp areas under certain conditions.
+Behavior: Slimes hop toward players and split into smaller slimes when killed, depending on size.
+Drops: Slimeballs from small slimes.
+Tips: Slimeballs are useful for sticky pistons, leads, and other crafting recipes.
+
+## Phantom
+Type: Hostile undead flying mob.
+Common location: Overworld night sky when players have not slept for several in-game days.
+Behavior: Phantoms fly and dive toward players from above.
+Drops: Phantom membranes.
+Tips: Sleep regularly to prevent phantom spawning. Phantom membranes can repair elytra and brew slow falling potions.
+
+## Drowned
+Type: Hostile undead aquatic mob.
+Common location: Oceans, rivers, and underwater ruins.
+Behavior: Drowned attack players in water and sometimes on land. Some can carry tridents.
+Drops: Rotten flesh, copper ingots rarely, nautilus shells rarely, and tridents from trident-carrying drowned.
+Tips: Be careful when swimming because trident drowned can deal high damage.
+
+## Husk
+Type: Hostile undead mob.
+Common location: Desert biomes.
+Behavior: Husks are zombie variants that do not burn in sunlight. Their attacks can inflict hunger.
+Drops: Rotten flesh and rare zombie-like drops.
+Tips: Fight them like zombies, but remember sunlight will not kill them.
+
+## Stray
+Type: Hostile undead mob.
+Common location: Cold and snowy biomes.
+Behavior: Strays are skeleton variants that shoot arrows of slowness.
+Drops: Bones, arrows, and sometimes arrows of slowness or bows.
+Tips: Use a shield and avoid being slowed in open areas.
+
+## Pillager
+Type: Hostile illager mob.
+Common location: Pillager outposts, patrols, and raids.
+Behavior: Pillagers attack using crossbows.
+Drops: Arrows, crossbows, and ominous bottles in some versions or raid-related items depending on version.
+Tips: Use shields to block crossbow shots and avoid starting raids unless prepared.
+
+## Vindicator
+Type: Hostile illager mob.
+Common location: Woodland mansions and raids.
+Behavior: Vindicators attack with axes and deal high melee damage.
+Drops: Emeralds and sometimes axes.
+Tips: Keep distance because their melee attack is dangerous.
+
+## Evoker
+Type: Hostile illager mob.
+Common location: Woodland mansions and raids.
+Behavior: Evokers summon vexes and use fang attacks.
+Drops: Totem of Undying and emeralds.
+Tips: Prioritize killing evokers quickly because vexes can overwhelm the player.
+
+## Vex
+Type: Hostile flying mob.
+Common location: Summoned by evokers.
+Behavior: Vexes fly through blocks and attack players with small swords.
+Drops: Usually no useful drops.
+Tips: Kill the evoker quickly to prevent more vexes from being summoned.
+
+## Ravager
+Type: Hostile raid mob.
+Common location: Raids.
+Behavior: Ravagers are large, powerful mobs that charge and knock back players.
+Drops: Saddles.
+Tips: Fight from range or use obstacles because ravagers deal heavy damage.
+
+## Blaze
+Type: Hostile Nether mob.
+Common location: Nether fortresses, especially near blaze spawners.
+Behavior: Blazes fly and shoot fireballs.
+Drops: Blaze rods.
+Tips: Bring fire resistance potions or shields. Blaze rods are needed for brewing and Eyes of Ender.
+
+## Ghast
+Type: Hostile flying Nether mob.
+Common location: Open areas of the Nether.
+Behavior: Ghasts float and shoot explosive fireballs.
+Drops: Ghast tears and gunpowder.
+Tips: Hit fireballs back toward ghasts or shoot them with a bow.
+
+## Magma Cube
+Type: Hostile Nether mob.
+Common location: Nether, especially basalt deltas and Nether fortresses.
+Behavior: Magma cubes jump toward players and split into smaller cubes when killed.
+Drops: Magma cream from small magma cubes.
+Tips: Fight carefully because large magma cubes can deal strong damage.
+
+## Wither Skeleton
+Type: Hostile undead Nether mob.
+Common location: Nether fortresses.
+Behavior: Wither skeletons attack with stone swords and inflict the Wither effect.
+Drops: Coal, bones, stone swords, and rarely wither skeleton skulls.
+Tips: Their skulls are needed to summon the Wither. Use looting to improve skull drop chances.
+
+## Piglin
+Type: Neutral Nether mob.
+Common location: Nether wastes, crimson forests, and bastion remnants.
+Behavior: Piglins are neutral if the player wears gold armor. They become hostile if the player is not wearing gold or opens certain containers near them.
+Drops: Gold-related items and equipment depending on gear.
+Tips: Wear at least one piece of gold armor. Piglins can barter when given gold ingots.
+
+## Zombified Piglin
+Type: Neutral undead Nether mob.
+Common location: Nether and occasionally near Nether portals.
+Behavior: Zombified piglins are neutral until attacked. If one is attacked, nearby zombified piglins become hostile.
+Drops: Rotten flesh, gold nuggets, and sometimes gold ingots or golden swords.
+Tips: Do not attack them unless prepared to fight a group.
+
+## Hoglin
+Type: Hostile Nether mob.
+Common location: Crimson forests and bastion remnants.
+Behavior: Hoglins attack players and can knock them back.
+Drops: Porkchops and leather.
+Tips: Hoglins are afraid of warped fungi and Nether portals.
+
+## Zoglin
+Type: Hostile mob.
+Common location: Created when a hoglin is brought to the Overworld or End and zombifies.
+Behavior: Zoglins attack most nearby mobs, including players.
+Drops: Rotten flesh.
+Tips: Avoid bringing hoglins to other dimensions unless intentionally creating zoglins.
+
+## Ender Dragon
+Type: Boss mob.
+Common location: The End.
+Behavior: The Ender Dragon flies around the End island, attacks players, and heals from End crystals.
+Drops: Experience and access to the end gateway after defeat.
+Tips: Destroy End crystals first, bring a bow, water bucket, blocks, food, and good armor.
+
+## Wither
+Type: Boss mob.
+Common location: Summoned by the player using soul sand or soul soil and wither skeleton skulls.
+Behavior: The Wither flies, shoots explosive skulls, and inflicts the Wither effect.
+Drops: Nether Star.
+Tips: Fight in a controlled area with strong armor, potions, and healing items.
+
+## Warden
+Type: Powerful hostile mob.
+Common location: Deep Dark biome, summoned by sculk shriekers.
+Behavior: The Warden is blind but detects vibrations and smell. It has powerful melee attacks and sonic boom attacks.
+Drops: Sculk catalyst.
+Tips: Avoid fighting the Warden. Sneak, avoid making vibrations, and escape if it spawns.
+
+## Guardian
+Type: Hostile aquatic mob.
+Common location: Ocean monuments.
+Behavior: Guardians attack with laser beams and can damage players with spikes when attacked.
+Drops: Prismarine shards, prismarine crystals, and fish.
+Tips: Use water breathing and good armor when exploring ocean monuments.
+
+## Elder Guardian
+Type: Hostile boss-like aquatic mob.
+Common location: Ocean monuments.
+Behavior: Elder guardians inflict Mining Fatigue and attack with lasers.
+Drops: Wet sponge and guardian drops.
+Tips: Defeat elder guardians to remove the main threat from an ocean monument.
+
+## Shulker
+Type: Hostile End mob.
+Common location: End cities.
+Behavior: Shulkers hide in shells and shoot projectiles that inflict levitation.
+Drops: Shulker shells.
+Tips: Shulker shells are used to craft shulker boxes. Be careful of levitation near high places.
+
+## Silverfish
+Type: Hostile small mob.
+Common location: Strongholds and infested blocks.
+Behavior: Silverfish attack players and can call nearby silverfish from infested blocks.
+Drops: No major useful drops.
+Tips: Break infested blocks carefully and use area attacks when many appear.
+
+## Chicken
+Type: Passive mob.
+Common location: Grassy Overworld biomes.
+Behavior: Chickens wander, lay eggs, and can be bred with seeds.
+Drops: Raw chicken, feathers, and eggs over time.
+Tips: Chickens are useful for feathers, food, and egg farms.
+
+## Cow
+Type: Passive mob.
+Common location: Grassy Overworld biomes.
+Behavior: Cows can be bred with wheat and milked using a bucket.
+Drops: Raw beef and leather.
+Tips: Cows are useful for food, leather, and milk.
+
+## Sheep
+Type: Passive mob.
+Common location: Grassy Overworld biomes.
+Behavior: Sheep can be bred with wheat and sheared for wool.
+Drops: Wool and raw mutton.
+Tips: Use shears to get wool without killing the sheep.
+
+## Pig
+Type: Passive mob.
+Common location: Grassy Overworld biomes.
+Behavior: Pigs can be bred with carrots, potatoes, or beetroot. They can be ridden with a saddle and controlled using a carrot on a stick.
+Drops: Raw porkchop.
+Tips: Pigs are a simple food source.
+
+## Horse
+Type: Passive mob.
+Common location: Plains and savanna biomes.
+Behavior: Horses can be tamed and ridden. They require a saddle for player control.
+Drops: Leather.
+Tips: Horses are useful for fast land travel.
+
+## Donkey
+Type: Passive mob.
+Common location: Plains and savanna biomes.
+Behavior: Donkeys can be tamed, ridden, and equipped with chests for storage.
+Drops: Leather.
+Tips: Donkeys are useful for transportation and carrying items.
+
+## Mule
+Type: Passive mob.
+Common location: Created by breeding a horse and a donkey.
+Behavior: Mules can be tamed, ridden, and equipped with chests.
+Drops: Leather.
+Tips: Mules combine transportation with storage utility.
+
+## Wolf
+Type: Neutral mob.
+Common location: Forest and taiga-like biomes.
+Behavior: Wild wolves are neutral. They can be tamed with bones and become dogs that help attack enemies.
+Drops: No useful drops.
+Tips: Feed tamed wolves meat to heal or breed them.
+
+## Cat
+Type: Passive mob.
+Common location: Villages and swamp huts.
+Behavior: Cats can be tamed with raw cod or raw salmon. Creepers and phantoms avoid cats.
+Drops: String rarely when killed, but killing cats is not useful.
+Tips: Cats are useful for creeper protection around bases.
+
+## Ocelot
+Type: Passive mob.
+Common location: Jungle biomes.
+Behavior: Ocelots are shy and can be made to trust the player with raw fish.
+Drops: No useful drops.
+Tips: Approach slowly and avoid sudden movement.
+
+## Villager
+Type: Passive NPC mob.
+Common location: Villages.
+Behavior: Villagers work at job site blocks, trade with players, sleep in beds, and can breed when conditions are met.
+Drops: No drops.
+Tips: Villagers are important for trading, farming, iron farms, and village systems.
+
+## Wandering Trader
+Type: Passive trading mob.
+Common location: Spawns near players with trader llamas.
+Behavior: Wandering traders offer random trades and disappear after some time.
+Drops: No useful drops directly, but llamas may drop leather if killed.
+Tips: They can sell useful rare items like saplings, coral, or other biome-related goods.
+
+## Iron Golem
+Type: Neutral utility mob.
+Common location: Villages or built by players using iron blocks and a carved pumpkin.
+Behavior: Iron golems protect villagers and attack hostile mobs. They become hostile to players who attack villagers or the golem.
+Drops: Iron ingots and poppies.
+Tips: Iron golems are useful for village defense and iron farms.
+
+## Snow Golem
+Type: Utility mob.
+Common location: Built by players using snow blocks and a carved pumpkin.
+Behavior: Snow golems throw snowballs at hostile mobs and leave snow trails in some biomes.
+Drops: Snowballs.
+Tips: Snow golems are useful for snow farming and simple mob distraction.
+
+## Bee
+Type: Neutral mob.
+Common location: Bee nests in flower forests, plains, meadows, and similar biomes.
+Behavior: Bees pollinate flowers and produce honey in nests or hives. They attack if their hive is disturbed without protection.
+Drops: No useful drops directly.
+Tips: Use a campfire under the hive or nest before harvesting honey or honeycomb.
+
+## Fox
+Type: Passive mob.
+Common location: Taiga and snowy taiga biomes.
+Behavior: Foxes are fast, shy, and can hold items in their mouth.
+Drops: The item they are holding, if any.
+Tips: Foxes can be bred with sweet berries or glow berries.
+
+## Rabbit
+Type: Passive mob.
+Common location: Deserts, snowy biomes, and other specific biomes.
+Behavior: Rabbits hop around and flee from players.
+Drops: Raw rabbit, rabbit hide, rabbit foot rarely.
+Tips: Rabbit foot can be used for brewing leaping potions.
+
+## Turtle
+Type: Passive mob.
+Common location: Beaches.
+Behavior: Turtles return to their home beach to lay eggs after breeding.
+Drops: Seagrass if killed, but turtle scutes are obtained when baby turtles grow up.
+Tips: Scutes are used to craft turtle shells.
+
+## Frog
+Type: Passive mob.
+Common location: Swamps and mangrove swamps.
+Behavior: Frogs eat small slimes and magma cubes. They produce froglights when eating small magma cubes.
+Drops: No normal drops.
+Tips: Frog color depends on the temperature of the biome where the tadpole grows up.
+
+## Axolotl
+Type: Passive aquatic mob.
+Common location: Lush caves.
+Behavior: Axolotls attack many aquatic mobs and can play dead to recover health.
+Drops: No useful drops.
+Tips: Axolotls can help fight underwater mobs.
+
+## Squid
+Type: Passive aquatic mob.
+Common location: Rivers and oceans.
+Behavior: Squids swim in water and release ink particles when attacked.
+Drops: Ink sacs.
+Tips: Ink sacs are used for black dye and other crafting uses.
+
+## Glow Squid
+Type: Passive aquatic mob.
+Common location: Dark underwater areas.
+Behavior: Glow squids glow visually and release glowing particles.
+Drops: Glow ink sacs.
+Tips: Glow ink sacs can make sign text glow and craft glow item frames.
+
+## Dolphin
+Type: Neutral aquatic mob.
+Common location: Oceans.
+Behavior: Dolphins swim in groups and can lead players to underwater treasure if fed fish.
+Drops: Raw cod.
+Tips: Swimming near dolphins can grant Dolphin's Grace, increasing swim speed.
+
+## Salmon
+Type: Passive aquatic mob.
+Common location: Rivers and cold oceans.
+Behavior: Salmon swim in water and can be collected in buckets.
+Drops: Raw salmon.
+Tips: Salmon are useful as food and for taming cats.
+
+## Cod
+Type: Passive aquatic mob.
+Common location: Oceans.
+Behavior: Cod swim in schools and can be collected in buckets.
+Drops: Raw cod.
+Tips: Cod are useful as food and for taming cats.
+
+## Pufferfish
+Type: Passive/defensive aquatic mob.
+Common location: Warm oceans.
+Behavior: Pufferfish inflate when players or mobs get close and can poison nearby entities.
+Drops: Pufferfish item.
+Tips: Pufferfish are used for brewing water breathing potions.
+
+## Tropical Fish
+Type: Passive aquatic mob.
+Common location: Warm oceans and lush caves.
+Behavior: Tropical fish swim in many colors and patterns.
+Drops: Tropical fish item.
+Tips: Tropical fish can be collected in buckets and used to breed axolotls.
+
+## Allay
+Type: Passive helper mob.
+Common location: Pillager outposts and woodland mansions.
+Behavior: Allays collect matching items after being given an item by the player.
+Drops: The item they are holding, if any.
+Tips: Allays are useful for item collection systems.
+
+## Camel
+Type: Passive rideable mob.
+Common location: Desert villages.
+Behavior: Camels can be ridden by two players and can dash across gaps.
+Drops: No useful drops.
+Tips: Camels are tall enough that some melee mobs have difficulty hitting riders.
+
+## Goat
+Type: Neutral/passive mob.
+Common location: Mountain biomes.
+Behavior: Goats can jump high and may ram entities.
+Drops: Goat horns when they ram certain blocks, and sometimes no direct useful drops.
+Tips: Goat horns are collectible items with different sounds.
+
+## Sniffer
+Type: Passive ancient mob.
+Common location: Hatched from sniffer eggs found through archaeology-related gameplay.
+Behavior: Sniffers search for ancient seeds by sniffing the ground.
+Drops: No useful drops.
+Tips: Sniffers can help obtain ancient plants such as torchflower seeds and pitcher pods.
+
+## Armadillo
+Type: Passive mob.
+Common location: Warm biomes such as savannas and badlands.
+Behavior: Armadillos can roll up when threatened. They drop or provide scutes used for wolf armor.
+Drops: Armadillo scutes.
+Tips: Armadillo scutes are useful for crafting and repairing wolf armor.
+
+## Bogged
+Type: Hostile undead skeleton variant.
+Common location: Swamps, mangrove swamps, and some trial chamber areas depending on version.
+Behavior: Bogged attack with bows and shoot poisoned arrows.
+Drops: Bones, arrows, and sometimes poison arrows or bows depending on version.
+Tips: Use shields and avoid being poisoned during combat.
+
+## Breeze
+Type: Hostile mob.
+Common location: Trial chambers.
+Behavior: Breezes move quickly and attack with wind charges that create knockback and interact with some blocks.
+Drops: Breeze rods depending on version.
+Tips: Stay mobile and watch for wind charge knockback in trial chambers.
