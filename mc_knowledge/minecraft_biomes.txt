@@ -1,0 +1,619 @@
+# Minecraft Biomes Knowledge Base
+
+Source note: This file was created as a starter local RAG knowledge base for Minecraft biomes. It summarizes common biome information in a ## heading format for heading-based chunking.
+
+## Plains
+Dimension: Overworld.
+Category: Flatland biome.
+Climate: Temperate and grassy.
+Terrain: Mostly flat grassland with occasional small hills, flowers, ponds, and scattered trees.
+Common resources: Grass, flowers, animals, villages, hay bales from villages, and basic wood if trees generate nearby.
+Common mobs: Passive animals such as cows, pigs, sheep, chickens, and horses. Hostile mobs can spawn at night or in dark areas.
+Structures: Villages and pillager outposts can generate in plains.
+Useful for: Building bases, farming, finding villages, and starting survival worlds.
+Notes: Plains are one of the easiest biomes for early survival because they are open, easy to travel through, and often contain animals and villages.
+
+## Sunflower Plains
+Dimension: Overworld.
+Category: Flatland biome.
+Climate: Temperate and grassy.
+Terrain: Similar to plains but with many sunflowers.
+Common resources: Sunflowers, grass, flowers, animals, and possible villages.
+Common mobs: Similar to plains, with many passive animals and normal hostile mobs at night.
+Structures: Villages and pillager outposts can generate.
+Useful for: Collecting yellow dye, farming, building, and locating open land.
+Notes: Sunflowers always face east, which can help players with direction.
+
+## Forest
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Temperate.
+Terrain: Oak and birch trees cover the area, with grass, flowers, and mushrooms.
+Common resources: Oak wood, birch wood, apples from oak leaves, mushrooms, flowers, and passive animals.
+Common mobs: Wolves can spawn in forests. Hostile mobs can spawn under trees or at night.
+Structures: No special structure is guaranteed, but villages may appear nearby in other compatible biomes.
+Useful for: Gathering early wood, apples, and basic survival resources.
+Notes: Forests are good starting biomes because wood is abundant, but dense tree cover can make hostile mobs harder to notice.
+
+## Flower Forest
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Temperate.
+Terrain: A forest variant with fewer trees and many flowers.
+Common resources: Many flower types, dyes, oak wood, birch wood, and bees.
+Common mobs: Rabbits can spawn. Hostile mobs spawn at night or in dark areas.
+Structures: Bee nests can generate on trees.
+Useful for: Dye farming, bee farming, decorative building, and collecting many flower types.
+Notes: Flower forests are one of the best biomes for collecting different flowers and making dyes.
+
+## Birch Forest
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Temperate.
+Terrain: Forest made mostly of birch trees.
+Common resources: Birch logs, grass, flowers, mushrooms, and passive animals.
+Common mobs: Normal Overworld passive and hostile mobs.
+Structures: No major unique structures.
+Useful for: Gathering birch wood and building in a clean, bright-looking forest.
+Notes: Birch forests are easier to navigate than dark forests because the trees are less dense and the terrain is usually simple.
+
+## Old Growth Birch Forest
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Temperate.
+Terrain: Birch forest with taller birch trees than normal.
+Common resources: Tall birch trees, birch logs, grass, and passive animals.
+Common mobs: Normal Overworld passive and hostile mobs.
+Structures: No major unique structures.
+Useful for: Gathering more birch wood from taller trees.
+Notes: This biome is similar to the normal birch forest, but the taller trees make it visually different and slightly better for wood gathering.
+
+## Dark Forest
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Temperate.
+Terrain: Dense forest with dark oak trees and a thick leaf canopy.
+Common resources: Dark oak wood, mushrooms, and sometimes giant mushrooms.
+Common mobs: Hostile mobs can survive under the dark canopy during the day because the forest floor can remain dark.
+Structures: Woodland mansions can generate in dark forests.
+Useful for: Gathering dark oak wood, finding woodland mansions, and mushroom collection.
+Notes: Dark forests can be dangerous for beginners because the dense canopy creates shadowed areas where hostile mobs may stay active.
+
+## Pale Garden
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Cool or muted forest environment.
+Terrain: Pale trees and pale vegetation create a gray, quiet forest atmosphere.
+Common resources: Pale wood-related blocks and pale vegetation.
+Common mobs: Creaking-related mechanics may appear depending on game version and world conditions.
+Structures: No standard village type is associated with this biome.
+Useful for: Collecting pale wood resources and building atmospheric structures.
+Notes: This biome is version-dependent. If your Minecraft version does not include it, it will not generate naturally.
+
+## Taiga
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Cool.
+Terrain: Spruce forest with ferns, grass, sweet berry bushes, and sometimes uneven ground.
+Common resources: Spruce wood, sweet berries, ferns, and animals.
+Common mobs: Wolves, foxes, rabbits, and normal hostile mobs.
+Structures: Villages and pillager outposts may generate.
+Useful for: Spruce wood, berry collection, wolf taming, and village searching.
+Notes: Taigas are strong survival biomes because spruce wood is abundant and villages can appear.
+
+## Snowy Taiga
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Cold and snowy.
+Terrain: Spruce forest covered in snow.
+Common resources: Spruce wood, snow, ice nearby, sweet berries, and animals adapted to colder biomes.
+Common mobs: Wolves, foxes, rabbits, and strays in some snowy conditions.
+Structures: Villages and igloos may generate depending on surrounding biome type.
+Useful for: Snow-themed builds, spruce wood, and cold biome resources.
+Notes: Water can freeze in snowy areas if exposed to the sky, which affects farming and travel.
+
+## Old Growth Pine Taiga
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Cool.
+Terrain: Large spruce trees, podzol, coarse dirt, mossy cobblestone boulders, ferns, and mushrooms.
+Common resources: Spruce wood, podzol, mushrooms, mossy cobblestone, and sweet berries.
+Common mobs: Wolves, foxes, rabbits, and normal hostile mobs.
+Structures: No unique major structure, but it is useful for natural resources.
+Useful for: Gathering large amounts of spruce wood and podzol.
+Notes: Despite the name, Minecraft uses spruce trees rather than a separate pine tree type.
+
+## Old Growth Spruce Taiga
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Cool.
+Terrain: Dense old spruce forest with large spruce trees, podzol, mossy cobblestone boulders, and ferns.
+Common resources: Spruce wood, podzol, mushrooms, mossy cobblestone, and sweet berries.
+Common mobs: Wolves, foxes, rabbits, and normal hostile mobs.
+Structures: No unique major structure.
+Useful for: Collecting spruce wood and natural decorative blocks.
+Notes: Old growth taigas feel denser and more ancient than normal taigas.
+
+## Jungle
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Warm and wet.
+Terrain: Dense jungle trees, vines, melons, cocoa beans, bamboo patches, and uneven ground.
+Common resources: Jungle wood, vines, cocoa beans, melons, bamboo, and ocelots.
+Common mobs: Parrots, ocelots, pandas in bamboo areas, and normal hostile mobs.
+Structures: Jungle temples can generate.
+Useful for: Cocoa beans, jungle wood, vines, parrots, and jungle temples.
+Notes: Jungles are rich in resources but can be difficult to travel through because of dense vegetation.
+
+## Sparse Jungle
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Warm and wet.
+Terrain: A more open jungle variant with fewer trees.
+Common resources: Jungle wood, vines, melons, cocoa beans, and animals.
+Common mobs: Similar to jungle biomes, with parrots and ocelots possible.
+Structures: Jungle-related structures may appear depending on generation.
+Useful for: Easier travel than dense jungles while still providing jungle resources.
+Notes: Sparse jungles are easier for base building than normal jungles because there is more open space.
+
+## Bamboo Jungle
+Dimension: Overworld.
+Category: Woodland biome.
+Climate: Warm and wet.
+Terrain: Dense bamboo growth mixed with jungle terrain.
+Common resources: Bamboo, jungle wood, vines, melons, and cocoa beans.
+Common mobs: Pandas can spawn here, along with parrots and other jungle mobs.
+Structures: Jungle temples may generate nearby depending on world generation.
+Useful for: Bamboo farming, scaffolding materials, panda finding, and jungle resources.
+Notes: Bamboo jungle is one of the best places to gather large amounts of bamboo quickly.
+
+## Cherry Grove
+Dimension: Overworld.
+Category: Mountain or highland-related biome.
+Climate: Temperate with precipitation.
+Terrain: Grasslands with cherry trees, pink petals, and gentle mountain-side terrain.
+Common resources: Cherry logs, cherry leaves, pink petals, grass, flowers, and bee nests.
+Common mobs: Passive animals such as sheep, rabbits, pigs, and bees can appear; hostile mobs spawn in darkness.
+Structures: Pillager outposts can generate in Java Edition.
+Useful for: Cherry wood, pink petals, decorative builds, bee nests, and scenic base locations.
+Notes: Cherry groves are similar in shape to meadows, but are defined by pink cherry trees and pink petals.
+
+## Meadow
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Temperate.
+Terrain: Grassy mountain slopes with flowers and open land.
+Common resources: Flowers, grass, animals, and sometimes emerald, coal, and iron in nearby mountains.
+Common mobs: Sheep, rabbits, donkeys, and normal hostile mobs in darkness.
+Structures: Villages and pillager outposts can generate.
+Useful for: Mountain bases, flower gathering, and scenic building.
+Notes: Meadows often appear on lower mountain slopes and can be good places to find villages near mountains.
+
+## Grove
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Cold and snowy.
+Terrain: Snowy slopes with spruce trees, snow layers, and powder snow.
+Common resources: Spruce wood, snow, powder snow, and animals.
+Common mobs: Wolves, rabbits, foxes, and hostile mobs in darkness.
+Structures: No major unique structure.
+Useful for: Snowy mountain bases, spruce wood, and powder snow.
+Notes: Be careful with powder snow because players and mobs can sink into it without leather boots.
+
+## Snowy Slopes
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Cold and snowy.
+Terrain: Snow-covered mountain slopes, often near peaks.
+Common resources: Snow, powder snow, ice nearby, and mountain ores.
+Common mobs: Goats can spawn in mountain areas.
+Structures: Igloos may generate in some snowy biome regions nearby.
+Useful for: Mountain survival, snow collection, and goat finding.
+Notes: Snowy slopes can be dangerous because of cliffs, fall damage, and powder snow.
+
+## Jagged Peaks
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Cold.
+Terrain: Very tall, sharp, jagged mountain peaks that may reach high altitudes.
+Common resources: Stone, snow, coal ore, iron ore, emerald ore, and exposed mountain ores.
+Common mobs: Goats are the main passive mob associated with mountain peaks.
+Structures: No standard village type.
+Useful for: High-altitude bases, emerald ore, and dramatic mountain builds.
+Notes: Travel is risky because of steep cliffs and fall damage.
+
+## Frozen Peaks
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Very cold.
+Terrain: Smooth snowy peaks with packed ice and snow.
+Common resources: Snow, packed ice, stone, coal, iron, and emerald ore.
+Common mobs: Goats can spawn in mountain peak biomes.
+Structures: No standard village type.
+Useful for: Ice-themed mountain builds and high-altitude mining.
+Notes: Frozen peaks are smoother than jagged peaks and contain more ice-related terrain.
+
+## Stony Peaks
+Dimension: Overworld.
+Category: Highland biome.
+Climate: Warm or temperate mountain peak.
+Terrain: Stone-covered mountain peaks without snow cover.
+Common resources: Stone, calcite strips, coal, iron, emerald ore, and exposed ores.
+Common mobs: Goats can spawn in mountain peak regions.
+Structures: No standard village type.
+Useful for: Mining exposed ores, gathering stone, and building mountain bases.
+Notes: Stony peaks are useful because ores may be visible on the surface.
+
+## Desert
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Hot and dry.
+Terrain: Sand, sandstone, cacti, dead bushes, and open flat land.
+Common resources: Sand, sandstone, cactus, dead bushes, rabbits, and village materials.
+Common mobs: Husks can spawn instead of normal zombies in desert areas.
+Structures: Desert villages, desert pyramids, desert wells, and pillager outposts can generate.
+Useful for: Sand collection, cactus farming, desert temples, and villages.
+Notes: Deserts have little natural wood, so players should bring saplings or find a village.
+
+## Savanna
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Warm and dry.
+Terrain: Dry grassland with acacia trees and open land.
+Common resources: Acacia wood, grass, animals, and village resources.
+Common mobs: Passive animals and normal hostile mobs.
+Structures: Savanna villages and pillager outposts can generate.
+Useful for: Acacia wood, villages, farming, and open building space.
+Notes: Savannas are easier than deserts because they provide wood while still having open terrain.
+
+## Savanna Plateau
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Warm and dry.
+Terrain: Elevated savanna terrain with acacia trees and flat-topped areas.
+Common resources: Acacia wood, grass, animals, and stone exposed on cliffs.
+Common mobs: Similar to savanna.
+Structures: Villages may generate depending on terrain conditions.
+Useful for: Building elevated bases and collecting acacia wood.
+Notes: Plateaus can provide good views but may be harder to travel through.
+
+## Windswept Savanna
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Warm and dry.
+Terrain: Extremely uneven savanna terrain with floating cliffs, steep slopes, and unusual formations.
+Common resources: Acacia wood, stone, exposed ores, and grass.
+Common mobs: Similar to savanna, with hostile mobs in dark places.
+Structures: Terrain can make structures less common or oddly placed.
+Useful for: Dramatic builds, cliff bases, and unusual terrain exploration.
+Notes: This biome is visually interesting but dangerous because of steep drops.
+
+## Badlands
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Hot and dry.
+Terrain: Terracotta layers, red sand, canyons, and exposed terrain.
+Common resources: Terracotta, red sand, gold ore, cactus, and dead bushes.
+Common mobs: Normal hostile mobs spawn in darkness.
+Structures: Mineshafts can generate at higher elevations than usual.
+Useful for: Terracotta collection, gold mining, and desert-style builds.
+Notes: Badlands are excellent for terracotta and gold, but they have little natural wood or food.
+
+## Eroded Badlands
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Hot and dry.
+Terrain: Tall narrow terracotta spires and eroded canyon formations.
+Common resources: Terracotta, red sand, gold ore, and exposed stone.
+Common mobs: Normal hostile mobs in darkness.
+Structures: Mineshafts can generate.
+Useful for: Scenic builds, terracotta, and exploration.
+Notes: Eroded badlands are one of the most visually dramatic Overworld biomes.
+
+## Wooded Badlands
+Dimension: Overworld.
+Category: Arid-land biome.
+Climate: Hot and dry.
+Terrain: Badlands terrain with patches of trees on higher areas.
+Common resources: Terracotta, red sand, oak wood, dirt, and gold ore.
+Common mobs: Normal hostile mobs in darkness.
+Structures: Mineshafts can generate.
+Useful for: Surviving in badlands more easily because trees provide wood.
+Notes: Wooded badlands are more survival-friendly than normal badlands because wood is available.
+
+## Swamp
+Dimension: Overworld.
+Category: Wetland biome.
+Climate: Warm and wet.
+Terrain: Shallow water, grass, oak trees with vines, lily pads, clay, and mud-colored water.
+Common resources: Slimeballs at night, clay, lily pads, vines, mushrooms, and wood.
+Common mobs: Slimes can spawn in swamps at night depending on moon phase; frogs can also appear in swamp-related areas.
+Structures: Witch huts can generate.
+Useful for: Slime farming, witch huts, vines, lily pads, and swamp-themed builds.
+Notes: Swamps are valuable for slimeballs, especially before building a dedicated slime farm.
+
+## Mangrove Swamp
+Dimension: Overworld.
+Category: Wetland biome.
+Climate: Warm and wet.
+Terrain: Mud, mangrove trees, mangrove roots, shallow water, and dense wetland vegetation.
+Common resources: Mangrove wood, mud, packed mud materials, propagules, roots, and frogs.
+Common mobs: Frogs, tropical fish in water, and normal hostile mobs in darkness.
+Structures: No standard village type.
+Useful for: Mangrove wood, mud blocks, frog finding, and wetland builds.
+Notes: Mangrove swamps are dense and can be slower to travel through because of roots, water, and mud.
+
+## Beach
+Dimension: Overworld.
+Category: Shore biome.
+Climate: Depends on surrounding biome.
+Terrain: Sand or gravel areas along oceans and other large water bodies.
+Common resources: Sand, gravel, sugar cane near water, turtles, and buried treasure nearby.
+Common mobs: Turtles can spawn on beaches. Hostile mobs spawn in darkness.
+Structures: Buried treasure can be found by using treasure maps from shipwrecks or ocean ruins.
+Useful for: Turtle scutes, sand, coastal building, and ocean access.
+Notes: Beaches connect land biomes to ocean biomes and are useful starting points for ocean exploration.
+
+## Snowy Beach
+Dimension: Overworld.
+Category: Shore biome.
+Climate: Cold.
+Terrain: Snow-covered shoreline near frozen or cold areas.
+Common resources: Sand, snow, ice nearby, and ocean resources.
+Common mobs: Turtles are less common than on warm beaches; hostile mobs spawn in darkness.
+Structures: Buried treasure may be nearby depending on world generation.
+Useful for: Snowy coastal builds and access to cold oceans.
+Notes: Snowy beaches appear near cold land and ocean biomes.
+
+## Stony Shore
+Dimension: Overworld.
+Category: Shore biome.
+Climate: Usually temperate or cold depending on nearby terrain.
+Terrain: Stone, gravel, and steep coastal cliffs.
+Common resources: Stone, gravel, coal, iron, and exposed ores.
+Common mobs: Normal hostile mobs in darkness.
+Structures: No special standard structures.
+Useful for: Stone gathering, cliff bases, and coastal mining.
+Notes: Stony shores often appear where mountains meet oceans.
+
+## River
+Dimension: Overworld.
+Category: Water biome.
+Climate: Depends on surrounding biome.
+Terrain: Long water channels that cut through land biomes.
+Common resources: Clay, sand, gravel, fish, squid, sugar cane along banks, and water access.
+Common mobs: Squid, salmon in some rivers, drowned in water, and normal mobs on land.
+Structures: No unique structures, but rivers often connect useful areas.
+Useful for: Travel, fishing, farming water, and connecting bases.
+Notes: Rivers can be useful natural paths for boats.
+
+## Frozen River
+Dimension: Overworld.
+Category: Water biome.
+Climate: Cold.
+Terrain: Frozen water channels with ice and snow nearby.
+Common resources: Ice, snow, fish under water, and cold biome resources.
+Common mobs: Strays may appear in nearby snowy areas; drowned can appear in water.
+Structures: No unique structures.
+Useful for: Ice collection with Silk Touch and cold-themed builds.
+Notes: Frozen rivers are cold variants of rivers and are usually found near snowy biomes.
+
+## Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Neutral water biome.
+Terrain: Large bodies of water with seafloor made of gravel, sand, or stone depending on variant.
+Common resources: Fish, squid, kelp, seagrass, shipwrecks, ocean ruins, and buried treasure maps.
+Common mobs: Fish, squid, drowned, and sometimes dolphins depending on variant.
+Structures: Shipwrecks and ocean ruins can generate.
+Useful for: Exploration, fishing, shipwreck loot, and ocean travel.
+Notes: Oceans are large water biomes and have several temperature variants.
+
+## Deep Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Neutral water biome.
+Terrain: Deeper ocean terrain, often more than 30 blocks deep.
+Common resources: Kelp, fish, squid, shipwrecks, ocean ruins, and ocean monuments in some deep ocean variants.
+Common mobs: Drowned, fish, squid, guardians near ocean monuments.
+Structures: Ocean monuments can generate in deep ocean variants.
+Useful for: Ocean monument exploration, prismarine, sponges, and guardian farms.
+Notes: Deep oceans are more dangerous than normal oceans because of depth, drowning risk, and monuments.
+
+## Warm Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Warm water biome.
+Terrain: Sand seafloor, seagrass, coral reefs, and bright water.
+Common resources: Coral blocks, coral fans, sea pickles, tropical fish, sand, and seagrass.
+Common mobs: Tropical fish, pufferfish, dolphins, squid, and drowned.
+Structures: Ocean ruins and shipwrecks can generate.
+Useful for: Coral collection with Silk Touch, tropical fish, sea pickles, and colorful builds.
+Notes: Warm oceans are the main biome for coral reefs.
+
+## Lukewarm Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Warm water biome.
+Terrain: Ocean with sand seafloor, seagrass, and kelp.
+Common resources: Kelp, seagrass, fish, squid, and ocean structure loot.
+Common mobs: Tropical fish, pufferfish, dolphins, squid, and drowned.
+Structures: Shipwrecks and ocean ruins can generate.
+Useful for: Ocean exploration and gathering kelp or fish.
+Notes: Lukewarm oceans are similar to warm oceans but do not generate coral reefs as strongly as warm oceans.
+
+## Cold Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Cold water biome.
+Terrain: Ocean with colder water color, gravelly seafloor, kelp, and seagrass.
+Common resources: Kelp, fish, squid, shipwrecks, ocean ruins, and ice nearby depending on surrounding biome.
+Common mobs: Cod, salmon, squid, drowned, and dolphins.
+Structures: Shipwrecks and ocean ruins can generate.
+Useful for: Fishing, kelp farming, and ocean travel.
+Notes: Cold oceans are colder variants of ocean biomes but are not always frozen.
+
+## Frozen Ocean
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Very cold water biome.
+Terrain: Ocean with ice, icebergs, frozen surface areas, and cold water.
+Common resources: Ice, packed ice, blue ice in icebergs, fish, and ocean loot.
+Common mobs: Polar bears can appear on ice, drowned can appear underwater, and fish spawn in water.
+Structures: Shipwrecks and ocean ruins can generate.
+Useful for: Ice collection, blue ice, packed ice, and frozen builds.
+Notes: Frozen oceans are dangerous because water travel can be blocked by ice and cold terrain.
+
+## Mushroom Fields
+Dimension: Overworld.
+Category: Off-land biome.
+Climate: Humid island biome.
+Terrain: Mycelium-covered islands with giant mushrooms.
+Common resources: Mycelium, red mushrooms, brown mushrooms, giant mushrooms, and mooshrooms.
+Common mobs: Mooshrooms spawn naturally. Hostile mobs generally do not spawn naturally on the surface.
+Structures: No villages or standard land structures.
+Useful for: Safe bases, mushroom farming, mushroom stew, and mooshroom resources.
+Notes: Mushroom fields are rare and usually generate as islands in oceans.
+
+## Dripstone Caves
+Dimension: Overworld.
+Category: Cave biome.
+Climate: Underground.
+Terrain: Caves with dripstone blocks, pointed dripstone, stalactites, stalagmites, and small water pools.
+Common resources: Dripstone blocks, pointed dripstone, copper ore, stone, and cave resources.
+Common mobs: Normal cave hostile mobs, bats, and drowned in some aquifers.
+Structures: Mineshafts, dungeons, and other cave structures may intersect.
+Useful for: Dripstone farming, lava farms, copper mining, and cave exploration.
+Notes: Pointed dripstone can damage entities that fall onto it or are hit by falling dripstone.
+
+## Lush Caves
+Dimension: Overworld.
+Category: Cave biome.
+Climate: Underground and wet.
+Terrain: Moss-covered caves with azalea, glow berries, cave vines, clay pools, dripleaf, and spore blossoms.
+Common resources: Moss blocks, glow berries, clay, dripleaf, azalea bushes, and spore blossoms.
+Common mobs: Axolotls can spawn in lush cave water; tropical fish may appear in aquifers.
+Structures: Cave structures may intersect.
+Useful for: Axolotls, glow berries, moss, clay, and decorative plants.
+Notes: Azalea trees above ground can indicate lush caves underneath.
+
+## Deep Dark
+Dimension: Overworld.
+Category: Cave biome.
+Climate: Underground.
+Terrain: Dark underground biome with sculk blocks, sculk sensors, sculk shriekers, and ancient city generation.
+Common resources: Sculk blocks, sculk sensors, sculk catalysts, echo shards from ancient city chests, and rare loot.
+Common mobs: The Warden can be summoned by sculk shriekers under the right conditions.
+Structures: Ancient cities can generate in the deep dark.
+Useful for: Sculk blocks, ancient city loot, stealth gameplay, and late-game exploration.
+Notes: The deep dark is dangerous. Players should avoid making noise near sculk sensors and shriekers.
+
+## Nether Wastes
+Dimension: Nether.
+Category: Nether biome.
+Climate: Hot Nether environment.
+Terrain: Netherrack, lava seas, glowstone, quartz ore, and Nether fortresses nearby.
+Common resources: Netherrack, nether quartz ore, glowstone, gold nuggets from zombified piglins, and Nether fortress loot nearby.
+Common mobs: Zombified piglins, ghasts, magma cubes, piglins, and endermen can appear depending on conditions.
+Structures: Nether fortresses and bastion remnants can generate in the Nether.
+Useful for: Nether travel, quartz mining, glowstone, and fortress searching.
+Notes: Nether wastes are the classic Nether biome and can be dangerous because of lava and ghasts.
+
+## Crimson Forest
+Dimension: Nether.
+Category: Nether biome.
+Climate: Hot Nether forest.
+Terrain: Crimson nylium, crimson fungi, huge crimson fungi, shroomlights, weeping vines, and Nether vegetation.
+Common resources: Crimson stems, nether wart blocks, shroomlights, weeping vines, and crimson fungus.
+Common mobs: Piglins and hoglins commonly spawn here.
+Structures: Bastion remnants and Nether fortresses can generate in the Nether.
+Useful for: Crimson wood, hoglin food sources, piglin bartering access, and shroomlights.
+Notes: Crimson forests can provide renewable wood in the Nether, but hoglins make them dangerous.
+
+## Warped Forest
+Dimension: Nether.
+Category: Nether biome.
+Climate: Hot Nether forest.
+Terrain: Warped nylium, warped fungi, huge warped fungi, warped wart blocks, shroomlights, and twisting vines.
+Common resources: Warped stems, warped fungus, twisting vines, warped wart blocks, and shroomlights.
+Common mobs: Endermen spawn commonly here. Hoglins avoid warped fungus.
+Structures: Bastion remnants and Nether fortresses can generate in the Nether.
+Useful for: Ender pearls, warped wood, safe-ish Nether bases, and shroomlights.
+Notes: Warped forests are often safer than crimson forests because fewer hostile Nether mobs spawn there, but endermen are still dangerous if provoked.
+
+## Soul Sand Valley
+Dimension: Nether.
+Category: Nether biome.
+Climate: Hot Nether environment.
+Terrain: Soul sand, soul soil, basalt pillars, bone fossils, lava, and blue fog.
+Common resources: Soul sand, soul soil, basalt, bone blocks, ghast tears from ghasts, and skeleton drops.
+Common mobs: Ghasts, skeletons, and endermen can spawn here.
+Structures: Nether fortresses and bastion remnants can generate in the Nether.
+Useful for: Soul sand, soul soil, bone blocks, basalt, and Nether wart farming materials.
+Notes: Soul sand slows movement, making this biome dangerous when ghasts or skeletons attack.
+
+## Basalt Deltas
+Dimension: Nether.
+Category: Nether biome.
+Climate: Hot volcanic Nether environment.
+Terrain: Basalt columns, blackstone, lava pockets, magma blocks, ash-like particles, and rough terrain.
+Common resources: Basalt, blackstone, magma blocks, and Nether gold ore.
+Common mobs: Magma cubes spawn commonly here.
+Structures: Nether fortresses and bastion remnants can generate in the Nether.
+Useful for: Blackstone, basalt, magma cream, and volcanic-themed builds.
+Notes: Basalt deltas are difficult to cross because of uneven terrain, hidden lava, and magma cubes.
+
+## The End
+Dimension: End.
+Category: End biome.
+Climate: Void-like End environment.
+Terrain: Central End island made mostly of end stone and obsidian pillars.
+Common resources: End stone, obsidian, dragon-related loot after the fight, and experience from defeating the Ender Dragon.
+Common mobs: Endermen and the Ender Dragon.
+Structures: Obsidian pillars and exit portal after defeating the dragon.
+Useful for: Completing the main progression, fighting the Ender Dragon, and accessing outer End islands.
+Notes: The central End island is where the Ender Dragon fight happens.
+
+## Small End Islands
+Dimension: End.
+Category: End biome.
+Climate: Void-like End environment.
+Terrain: Small floating islands of end stone between the central island and outer islands.
+Common resources: End stone.
+Common mobs: Endermen.
+Structures: No major structures.
+Useful for: Bridging and traveling toward outer End islands.
+Notes: Falling into the void is the main danger in this biome.
+
+## End Midlands
+Dimension: End.
+Category: End biome.
+Climate: Void-like End environment.
+Terrain: Outer End island terrain, usually between larger highlands and lower barrens.
+Common resources: End stone, chorus plants nearby, and access to End cities in nearby highlands.
+Common mobs: Endermen.
+Structures: End cities may generate in outer End island regions, especially associated with highland terrain.
+Useful for: Exploring outer End islands and reaching End cities.
+Notes: Use ender pearls, blocks, or elytra carefully to avoid falling into the void.
+
+## End Highlands
+Dimension: End.
+Category: End biome.
+Climate: Void-like End environment.
+Terrain: Higher outer End islands with chorus plants.
+Common resources: Chorus fruit, chorus flowers, end stone, and End city loot nearby.
+Common mobs: Endermen and shulkers inside End cities.
+Structures: End cities and End ships can generate.
+Useful for: Elytra, shulker shells, dragon heads, chorus fruit, and late-game loot.
+Notes: End highlands are very important for late-game exploration because End cities can generate there.
+
+## End Barrens
+Dimension: End.
+Category: End biome.
+Climate: Void-like End environment.
+Terrain: Outer edges of End islands with steep drops into the void.
+Common resources: End stone.
+Common mobs: Endermen.
+Structures: End cities are less associated with barren edge areas.
+Useful for: Exploring island edges, but less valuable than highlands.
+Notes: End barrens are dangerous because they are close to the void and have limited resources.

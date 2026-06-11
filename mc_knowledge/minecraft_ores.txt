@@ -1,0 +1,471 @@
+# Minecraft Ores and Mining Knowledge Base
+
+## Mining Basics
+Category: Mining guide.
+Dimension: Mainly Overworld, Nether, and End depending on the resource.
+Purpose: Mining is used to collect ores, stone, gems, metals, redstone materials, and underground resources.
+Required tools: Pickaxes are the main tools used for mining ores.
+Important rule: Different ores require different pickaxe tiers.
+Notes: Mining is safer when the player carries food, torches, blocks, a water bucket, armor, and spare tools.
+
+## Ore Distribution Basics
+Category: Mining guide.
+Dimension: Overworld and Nether.
+Purpose: Ore distribution describes where ores generate in the world.
+Important detail: Modern Minecraft ore generation uses different Y-level ranges and peak levels for different ores.
+Useful for: Choosing the best mining depth for each ore.
+Notes: Since the Caves & Cliffs changes, many ores are no longer best mined at the same old Y-levels.
+
+## Y-Level
+Category: Mining concept.
+Meaning: Y-level is the vertical coordinate that shows how high or deep the player is in the world.
+Use: Players use Y-levels to find the best mining depth for ores.
+Example: Lower Y-levels are usually better for diamonds, while high mountain Y-levels can be good for emeralds and some iron.
+Notes: The player can view coordinates in the debug screen in Java Edition or enable coordinates in Bedrock Edition.
+
+## Pickaxe Tier Requirements
+Category: Mining guide.
+Purpose: Pickaxe tier determines whether an ore can be mined successfully.
+Wooden pickaxe: Can mine stone and coal ore.
+Stone pickaxe: Can mine iron ore, copper ore, lapis lazuli ore, and coal ore.
+Iron pickaxe: Can mine diamond ore, redstone ore, gold ore, emerald ore, and ancient debris.
+Diamond pickaxe: Can mine obsidian and ancient debris.
+Netherite pickaxe: Can mine the same important blocks as diamond pickaxe, with better durability and speed.
+Notes: If the pickaxe tier is too low, the ore block may break without dropping the resource.
+
+## Coal Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Stone areas, caves, cliffs, mountains, and underground terrain.
+Best mining areas: Common at higher and middle Y-levels, especially exposed stone and mountain areas.
+Tool required: Wooden pickaxe or better.
+Drops: Coal.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops coal ore block instead of coal.
+Uses: Torches, fuel, campfires, fire charges, and trading.
+Notes: Coal is one of the most useful early-game resources because it provides both lighting and fuel.
+
+## Deepslate Coal Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate areas at low Y-levels.
+Tool required: Wooden pickaxe or better.
+Drops: Coal.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Uses: Same as coal ore.
+Notes: Deepslate coal ore is rare because coal usually generates more commonly at higher levels.
+
+## Iron Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Caves, underground stone, mountains, and iron ore veins.
+Best mining areas: Can be found underground and also commonly in high mountain areas.
+Tool required: Stone pickaxe or better.
+Drops: Raw Iron.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops iron ore block instead of raw iron.
+Smelting result: Iron Ingot.
+Uses: Tools, armor, buckets, shears, hoppers, anvils, rails, minecarts, shields, and many utility blocks.
+Notes: Iron is one of the most important survival resources because it is used in many essential recipes.
+
+## Deepslate Iron Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate layers underground.
+Tool required: Stone pickaxe or better.
+Drops: Raw Iron.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Smelting result: Iron Ingot.
+Uses: Same as iron ore.
+Notes: Deepslate iron ore takes longer to mine than normal iron ore.
+
+## Copper Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Underground stone layers and caves.
+Best mining areas: Common around middle underground levels and especially common in dripstone caves.
+Tool required: Stone pickaxe or better.
+Drops: Raw Copper.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops copper ore block instead of raw copper.
+Smelting result: Copper Ingot.
+Uses: Copper blocks, cut copper, lightning rods, spyglasses, brushes, and decorative builds.
+Notes: Copper blocks oxidize over time unless waxed with honeycomb.
+
+## Deepslate Copper Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate layers underground.
+Tool required: Stone pickaxe or better.
+Drops: Raw Copper.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Smelting result: Copper Ingot.
+Uses: Same as copper ore.
+Notes: Deepslate copper ore takes longer to mine than normal copper ore.
+
+## Gold Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Underground stone and deepslate layers.
+Best mining areas: Lower underground levels and badlands biomes.
+Special biome: Gold ore is more common in badlands biomes.
+Tool required: Iron pickaxe or better.
+Drops: Raw Gold.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops gold ore block instead of raw gold.
+Smelting result: Gold Ingot.
+Uses: Golden apples, powered rails, clocks, gold tools, gold armor, bartering with piglins, and netherite upgrades.
+Notes: Gold tools mine quickly but have low durability.
+
+## Deepslate Gold Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate layers underground.
+Tool required: Iron pickaxe or better.
+Drops: Raw Gold.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Smelting result: Gold Ingot.
+Uses: Same as gold ore.
+Notes: Deepslate gold ore takes longer to mine than normal gold ore.
+
+## Badlands Gold Mining
+Category: Mining guide.
+Dimension: Overworld.
+Biome: Badlands.
+Purpose: Badlands biomes are useful for mining gold because gold ore generates more commonly there than in most other Overworld biomes.
+Useful for: Getting gold for powered rails, golden apples, and piglin bartering.
+Notes: Badlands can be a strong option when the player needs large amounts of gold without going to the Nether.
+
+## Redstone Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Deep underground layers.
+Best mining areas: Low Y-levels near deepslate and diamond-mining areas.
+Tool required: Iron pickaxe or better.
+Drops: Redstone Dust.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops redstone ore block instead of redstone dust.
+Uses: Redstone circuits, pistons, observers, dispensers, droppers, repeaters, comparators, powered rails, clocks, compasses, and automation.
+Notes: Redstone ore lights up when touched or stepped on.
+
+## Deepslate Redstone Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deep deepslate layers.
+Tool required: Iron pickaxe or better.
+Drops: Redstone Dust.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Uses: Same as redstone ore.
+Notes: Deepslate redstone ore takes longer to mine than normal redstone ore.
+
+## Lapis Lazuli Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Underground stone and deepslate layers.
+Best mining areas: Middle to lower underground levels.
+Tool required: Stone pickaxe or better.
+Drops: Lapis Lazuli.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops lapis lazuli ore block instead of lapis lazuli.
+Uses: Enchanting and blue dye.
+Notes: Lapis lazuli is required for enchanting items in an enchanting table.
+
+## Deepslate Lapis Lazuli Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate layers underground.
+Tool required: Stone pickaxe or better.
+Drops: Lapis Lazuli.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Uses: Same as lapis lazuli ore.
+Notes: Deepslate lapis lazuli ore takes longer to mine than normal lapis lazuli ore.
+
+## Diamond Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Deep underground layers.
+Best mining areas: Very low Y-levels, especially near the bottom of the Overworld where deepslate is common.
+Tool required: Iron pickaxe or better.
+Drops: Diamond.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops diamond ore block instead of diamond.
+Uses: Diamond tools, diamond armor, enchanting tables, jukeboxes, and netherite gear upgrades.
+Notes: Diamond ore is rare and is one of the most valuable Overworld ores. Diamond ore is a reliable source of diamonds deep underground. 
+
+## Deepslate Diamond Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deep deepslate layers.
+Tool required: Iron pickaxe or better.
+Drops: Diamond.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Uses: Same as diamond ore.
+Notes: Deepslate diamond ore takes longer to mine than normal diamond ore.
+
+## Diamond Mining Tips
+Category: Mining guide.
+Dimension: Overworld.
+Purpose: Helps players find diamonds more efficiently.
+Recommended method: Mine deep underground near the lower Overworld levels and avoid digging straight down.
+Useful items: Iron pickaxe or better, Fortune pickaxe, torches, water bucket, food, shield, and armor.
+Danger: Lava is common in deep mining areas.
+Notes: Fortune III is very useful for increasing diamond drops.
+
+## Emerald Ore
+Category: Overworld ore.
+Dimension: Overworld.
+Found in: Mountain biomes and high terrain.
+Best mining areas: High Y-levels in mountain biomes.
+Tool required: Iron pickaxe or better.
+Drops: Emerald.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops emerald ore block instead of emerald.
+Uses: Trading with villagers and wandering traders.
+Notes: Emerald ore is rare as an ore, but emeralds are often easier to get through villager trading.
+
+## Deepslate Emerald Ore
+Category: Overworld ore variant.
+Dimension: Overworld.
+Found in: Deepslate layers under mountain biomes.
+Tool required: Iron pickaxe or better.
+Drops: Emerald.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes.
+Uses: Same as emerald ore.
+Notes: Deepslate emerald ore is very rare because emerald ore is biome-specific and deepslate emerald generation is uncommon.
+
+## Nether Quartz Ore
+Category: Nether ore.
+Dimension: Nether.
+Found in: Netherrack throughout the Nether.
+Best mining areas: Exposed Nether terrain and tunnels.
+Tool required: Wooden pickaxe or better.
+Drops: Nether Quartz.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops nether quartz ore block instead of quartz.
+Uses: Comparators, observers, daylight detectors, quartz blocks, and decorative building.
+Notes: Nether quartz ore also gives experience when mined.
+
+## Nether Gold Ore
+Category: Nether ore.
+Dimension: Nether.
+Found in: Netherrack throughout the Nether.
+Tool required: Wooden pickaxe or better.
+Drops: Gold Nuggets.
+Affected by Fortune: Yes.
+Affected by Silk Touch: Yes, drops nether gold ore block instead of nuggets.
+Smelting result: Gold Ingot if the ore block is smelted.
+Uses: Gold ingots, piglin bartering, golden items, powered rails, and golden apples.
+Notes: Mining nether gold ore near piglins can make piglins angry unless the player is careful.
+
+## Ancient Debris
+Category: Nether ore.
+Dimension: Nether.
+Found in: Deep Nether layers inside netherrack, basalt, or blackstone areas.
+Best mining areas: Low Nether Y-levels, commonly around Y-level 15.
+Tool required: Diamond pickaxe or Netherite pickaxe.
+Drops: Ancient Debris block.
+Affected by Fortune: No.
+Affected by Silk Touch: Not needed because it already drops itself.
+Smelting result: Netherite Scrap.
+Uses: Netherite ingots and netherite gear upgrades.
+Notes: Ancient debris is blast resistant and does not burn in lava. It is one of the rarest and most valuable ores.
+
+## Ancient Debris Mining Tips
+Category: Mining guide.
+Dimension: Nether.
+Purpose: Helps players find ancient debris more efficiently.
+Common methods: Branch mining, bed mining, or TNT mining.
+Recommended Y-level: Around Y-level 15 is commonly used.
+Danger: Lava pockets and explosions are dangerous in the Nether.
+Useful items: Diamond or netherite pickaxe, fire resistance potions, food, armor, blocks, and blast-resistant planning.
+Notes: Beds explode in the Nether, so bed mining is dangerous but can expose ancient debris.
+
+## Raw Iron
+Category: Raw metal item.
+Obtained from: Mining iron ore or deepslate iron ore without Silk Touch.
+Can be smelted into: Iron Ingot.
+Affected by Fortune: Yes, Fortune can increase raw iron drops.
+Uses: Smelt into iron ingots for tools, armor, and utility items.
+Notes: Raw iron can be crafted into raw iron blocks for storage.
+
+## Raw Copper
+Category: Raw metal item.
+Obtained from: Mining copper ore or deepslate copper ore without Silk Touch.
+Can be smelted into: Copper Ingot.
+Affected by Fortune: Yes, Fortune can increase raw copper drops.
+Uses: Smelt into copper ingots for copper blocks, lightning rods, spyglasses, and other recipes.
+Notes: Raw copper can be crafted into raw copper blocks for storage.
+
+## Raw Gold
+Category: Raw metal item.
+Obtained from: Mining gold ore or deepslate gold ore without Silk Touch.
+Can be smelted into: Gold Ingot.
+Affected by Fortune: Yes, Fortune can increase raw gold drops.
+Uses: Smelt into gold ingots for powered rails, golden apples, clocks, and bartering.
+Notes: Raw gold can be crafted into raw gold blocks for storage.
+
+## Fortune for Mining
+Category: Mining enchantment.
+Applies to: Pickaxes and some other tools.
+Effect: Increases drops from many ores.
+Useful for: Diamond, coal, emerald, lapis lazuli, redstone, copper, iron, gold, and nether quartz.
+Does not help with: Ancient debris.
+Incompatible with: Silk Touch.
+Notes: Fortune III is one of the best enchantments for mining valuable ores.
+
+## Silk Touch for Mining
+Category: Mining enchantment.
+Applies to: Pickaxes and some other tools.
+Effect: Makes many blocks drop themselves instead of their normal drops.
+Useful for: Collecting ore blocks, glass, ice, grass blocks, bookshelves, and other special blocks.
+Incompatible with: Fortune.
+Notes: Silk Touch is useful when the player wants to move ore blocks or save them for later mining with Fortune.
+
+## Smelting Ores
+Category: Mining guide.
+Purpose: Converts raw metals or ore blocks into ingots.
+Smeltable ores: Iron ore, copper ore, gold ore, ancient debris, and their variants.
+Furnace use: Smelts ores slowly.
+Blast furnace use: Smelts ores and metal items faster than a normal furnace.
+Notes: Ancient debris smelts into netherite scrap, not directly into netherite ingots.
+
+## Blast Furnace for Ores
+Category: Utility block.
+Use: Smelts ores, raw metals, armor, and tools faster than a normal furnace.
+Fuel required: Yes.
+Useful for: Processing large amounts of iron, gold, copper, and ancient debris.
+Notes: A blast furnace cannot cook food.
+
+## Ore Veins
+Category: World generation feature.
+Dimension: Overworld.
+Types: Large iron ore veins and large copper ore veins.
+Iron vein clue: Often associated with tuff.
+Copper vein clue: Often associated with granite.
+Useful for: Getting large amounts of iron or copper.
+Notes: Ore veins can contain many ore blocks spread through a large underground area.
+
+## Tuff
+Category: Stone-related mining block.
+Dimension: Overworld.
+Found in: Underground areas.
+Mining relevance: Can be associated with large iron ore veins.
+Uses: Building and decoration.
+Notes: Finding lots of tuff underground can be a clue that iron ore veins may be nearby.
+
+## Granite
+Category: Stone-related mining block.
+Dimension: Overworld.
+Found in: Underground areas.
+Mining relevance: Can be associated with large copper ore veins.
+Uses: Building and decoration.
+Notes: Finding lots of granite underground can be a clue that copper ore veins may be nearby.
+
+## Deepslate
+Category: Underground stone block.
+Dimension: Overworld.
+Found in: Deep underground layers.
+Mining relevance: Many deep ore variants generate in deepslate.
+Mining speed: Deepslate blocks and deepslate ores take longer to mine than normal stone variants.
+Uses: Building, decoration, and crafting polished deepslate blocks.
+Notes: Diamond, redstone, lapis lazuli, gold, iron, copper, coal, and emerald can have deepslate ore variants.
+
+## Branch Mining
+Category: Mining method.
+Purpose: Efficiently searches for ores by creating a main tunnel with side branches.
+Useful for: Diamonds, redstone, lapis lazuli, iron, and other underground ores.
+Advantages: Controlled, organized, and safer than random cave exploration.
+Disadvantages: Can be slower and less exciting than cave mining.
+Notes: Branch mining is useful when the player wants systematic ore searching.
+
+## Cave Mining
+Category: Mining method.
+Purpose: Explores natural caves to find exposed ores.
+Useful for: Coal, iron, copper, gold, redstone, lapis lazuli, diamonds, and other resources.
+Advantages: Ores are visible on cave walls and floors.
+Disadvantages: More dangerous because of mobs, cliffs, darkness, and lava.
+Notes: Bring torches, food, weapons, armor, and blocks when cave mining.
+
+## Strip Mining
+Category: Mining method.
+Purpose: Mines long straight tunnels at a chosen Y-level.
+Useful for: Searching for ores at a specific depth.
+Advantages: Simple and easy to understand.
+Disadvantages: Can be repetitive and may miss ores outside the tunnel path.
+Notes: Strip mining is often used for diamonds and other deep ores.
+
+## Bed Mining
+Category: Nether mining method.
+Dimension: Nether.
+Purpose: Uses bed explosions to reveal ancient debris.
+Useful for: Ancient debris mining.
+Danger: Beds explode when used in the Nether and can kill the player.
+Recommended protection: Armor, blocks for shielding, food, and Fire Resistance.
+Notes: Bed mining is powerful but risky.
+
+## TNT Mining
+Category: Nether mining method.
+Dimension: Nether.
+Purpose: Uses TNT explosions to reveal ancient debris.
+Useful for: Ancient debris mining.
+Danger: Explosions and lava pockets.
+Advantages: Safer and more controllable than bed mining if prepared properly.
+Notes: Ancient debris has high blast resistance, so explosions can reveal it without destroying it.
+
+## Mining Safety Tips
+Category: Mining guide.
+Tip: Never dig straight down because the player can fall into lava, caves, or deep holes.
+Tip: Never dig straight up because gravel, sand, lava, or mobs can fall onto the player.
+Tip: Carry torches to prevent hostile mobs from spawning.
+Tip: Carry a water bucket when mining in the Overworld to handle lava and falls.
+Tip: Carry blocks to bridge gaps or block lava.
+Tip: Bring enough food before long mining trips.
+Tip: Use coordinates to stay at the correct Y-level.
+Notes: Mining is much safer when the player prepares before going underground.
+
+## Lava Safety
+Category: Mining safety.
+Common location: Deep underground and in the Nether.
+Danger: Lava can burn the player and destroy items.
+Useful items: Water bucket in the Overworld, Fire Resistance potion, blocks, and armor.
+Tip: Mine carefully near deep diamond levels because lava pools are common.
+Notes: Water cannot be placed in the Nether, so Fire Resistance is very useful there.
+
+## Ore Storage Blocks
+Category: Storage guide.
+Purpose: Many mining resources can be crafted into blocks for compact storage.
+Examples: Block of Coal, Block of Raw Iron, Block of Raw Copper, Block of Raw Gold, Iron Block, Copper Block, Gold Block, Diamond Block, Emerald Block, Redstone Block, Lapis Lazuli Block, Quartz Block, and Netherite Block.
+Useful for: Saving chest space and building.
+Notes: Storage blocks can usually be crafted back into their original items.
+
+## Best Early Game Mining Goals
+Category: Mining guide.
+Goal: Get coal for torches and fuel.
+Goal: Get iron for tools, armor, shield, bucket, shears, and utility items.
+Goal: Get copper if the player wants copper blocks, lightning rods, or spyglasses.
+Goal: Get redstone and lapis lazuli when preparing for enchanting and automation.
+Notes: Iron is usually the most important early-game ore.
+
+## Best Mid Game Mining Goals
+Category: Mining guide.
+Goal: Get diamonds for tools, armor, and enchanting tables.
+Goal: Get redstone for farms and machines.
+Goal: Get lapis lazuli for enchanting.
+Goal: Get gold for powered rails, golden apples, and Nether bartering.
+Notes: Mid game mining usually focuses on diamonds, redstone, and enchanting resources.
+
+## Best Late Game Mining Goals
+Category: Mining guide.
+Goal: Get ancient debris for netherite upgrades.
+Goal: Get large amounts of redstone for advanced farms.
+Goal: Get emeralds through trading or mountain mining.
+Goal: Get quartz for redstone components and building.
+Notes: Late game mining often shifts from basic survival resources to upgrades, automation, and building materials.

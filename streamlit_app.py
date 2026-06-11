@@ -67,7 +67,7 @@ if question:
 
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            answer, retrieved_chunks, scores = ask_rag(
+            answer, retrieved_chunks, scores, retrieval_method = ask_rag(
                 question=question,
                 chunks=chunks,
                 chunk_embeddings=chunk_embeddings,
@@ -77,6 +77,8 @@ if question:
             )
 
         st.write(answer)
+
+        st.markdown(f"**Retrieval method:** `{retrieval_method}`")
 
         with st.expander("Retrieved sources"):
             for chunk, score in zip(retrieved_chunks, scores):

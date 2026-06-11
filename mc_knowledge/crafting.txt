@@ -135,10 +135,16 @@ Place 3 planks on the top row, 3 books in the middle row, and 3 planks on the bo
 An enchantment table is crafted using 4 obsidian, 2 diamonds, and 1 book.
 Place the book in the top middle slot, diamonds on the left and right of the middle row, obsidian in the center, and 3 obsidian on the bottom row.
 
-## Crafting a Nether Portal
-A Nether portal is not crafted in a crafting table.
-A Nether portal is built using obsidian blocks and activated with flint and steel.
-The minimum portal frame uses 10 obsidian if corners are omitted, or 14 obsidian with corners.
+## Nether Portal
+Category: Structure.
+Type: Portal.
+Built with: Obsidian blocks.
+Activation item: Flint and Steel.
+Minimum frame: 10 obsidian blocks if the corner blocks are omitted.
+Full frame: 14 obsidian blocks if the corner blocks are included.
+How to build: Build a vertical rectangular obsidian frame. The minimum frame has 2 obsidian blocks on the bottom, 2 obsidian blocks on the top, and 3 obsidian blocks on each side. After the frame is built, use flint and steel on the inside of the frame to activate the portal.
+Important note: A Nether portal is not crafted in a crafting table.
+Use: Allows travel between the Overworld and the Nether.
 
 ## Bread
 Bread is crafted using 3 wheat.

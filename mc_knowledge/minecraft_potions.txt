@@ -1,0 +1,491 @@
+# Minecraft Potions Knowledge Base
+
+## Brewing Basics
+Category: Potion system.
+Purpose: Brewing is the process of creating potions using a brewing stand.
+Required equipment: Brewing stand, blaze powder, glass bottles, water, and brewing ingredients.
+Basic process: Fill glass bottles with water, place them in the brewing stand, add blaze powder as fuel, then add brewing ingredients.
+Notes: Most useful potions start from a Water Bottle that is brewed with Nether Wart to create an Awkward Potion.
+
+## Brewing Stand
+Category: Brewing equipment.
+Use: A brewing stand is used to brew ingredients into water bottles or existing potions.
+Fuel: Blaze powder.
+Notes: Without blaze powder, the brewing stand cannot brew potions.
+
+## Blaze Powder
+Category: Brewing fuel and ingredient.
+Use as fuel: Blaze powder powers the brewing stand.
+Use as ingredient: Blaze powder can also be used as an ingredient to create a Potion of Strength.
+Source: Crafted from blaze rods.
+Notes: Blaze rods are dropped by blazes, which are commonly found in Nether fortresses.
+
+## Water Bottle
+Category: Base potion.
+Created from: Filling a glass bottle with water.
+Effect: No potion effect.
+Use: Starting base for potion brewing.
+Notes: Water Bottles are usually brewed with Nether Wart to create Awkward Potions.
+
+## Awkward Potion
+Category: Base potion.
+Created from: Water Bottle plus Nether Wart.
+Effect: No direct potion effect.
+Use: Main base for most useful potions.
+Notes: Most positive and negative effect potions are brewed from an Awkward Potion.
+
+## Mundane Potion
+Category: Base potion.
+Created from: Water Bottle plus certain ingredients such as redstone dust.
+Effect: No useful effect.
+Use: Limited brewing use.
+Notes: Mundane Potions are generally not the main base for useful potions.
+
+## Thick Potion
+Category: Base potion.
+Created from: Water Bottle plus glowstone dust.
+Effect: No useful effect.
+Use: Limited brewing use.
+Notes: Thick Potions are generally not the main base for useful potions.
+
+## Redstone Dust Modifier
+Category: Potion modifier.
+Effect: Extends the duration of many potions.
+Use: Add redstone dust to a compatible potion to make the effect last longer.
+Example: Potion of Night Vision can be extended with redstone dust.
+Notes: Redstone usually increases duration, but it does not increase potion strength.
+
+## Glowstone Dust Modifier
+Category: Potion modifier.
+Effect: Increases the strength or level of some potions.
+Use: Add glowstone dust to a compatible potion to create a stronger version.
+Example: Potion of Healing can become Potion of Healing II.
+Notes: Glowstone usually makes a potion stronger but may prevent it from being extended with redstone.
+
+## Gunpowder Modifier
+Category: Potion modifier.
+Effect: Turns a drinkable potion into a splash potion.
+Use: Add gunpowder to a potion.
+Result: Splash Potion.
+Notes: Splash potions can be thrown and can affect mobs, players, or an area.
+
+## Dragon's Breath Modifier
+Category: Potion modifier.
+Effect: Turns a splash potion into a lingering potion.
+Use: Add dragon's breath to a splash potion.
+Result: Lingering Potion.
+Notes: Lingering potions create an effect cloud that remains on the ground for a short time.
+
+## Fermented Spider Eye Modifier
+Category: Potion modifier.
+Effect: Corrupts or changes certain potions into different effects.
+Use: Add fermented spider eye to compatible potions.
+Examples: Night Vision can become Invisibility. Healing can become Harming. Swiftness can become Slowness.
+Notes: Fermented spider eye is also used to create Potion of Weakness directly from a Water Bottle.
+
+## Splash Potion
+Category: Potion form.
+Created from: Any compatible potion plus gunpowder.
+Effect: Can be thrown to apply the potion effect in an area.
+Useful for: Affecting mobs, enemies, teammates, or multiple targets.
+Notes: Splash potions are useful for combat, traps, multiplayer support, and applying effects without drinking.
+
+## Lingering Potion
+Category: Potion form.
+Created from: Splash Potion plus dragon's breath.
+Effect: Creates a lingering effect cloud on the ground.
+Useful for: Area control, traps, multiplayer support, and crafting tipped arrows.
+Notes: Lingering potions usually have shorter effective duration than normal drinkable potions.
+
+## Potion of Healing
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Glistering Melon Slice.
+Effect: Instantly restores health.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: No.
+Useful for: Quickly recovering health during combat.
+Notes: Potion of Healing damages undead mobs because undead mobs are harmed by healing effects.
+
+## Potion of Harming
+Category: Negative potion.
+Base potion: Potion of Healing or Potion of Poison.
+Main ingredient: Fermented Spider Eye.
+Effect: Instantly damages the target.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: No.
+Useful for: Damaging enemies quickly, especially as a splash potion.
+Notes: Potion of Harming heals undead mobs because undead mobs react oppositely to instant damage and healing effects.
+
+## Potion of Regeneration
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Ghast Tear.
+Effect: Gradually restores health over time.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Boss fights, raids, PvP, and dangerous exploration.
+Notes: Regeneration is useful when the player expects to take repeated damage.
+
+## Potion of Strength
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Blaze Powder.
+Effect: Increases melee attack damage.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Fighting bosses, hostile mobs, raids, and players.
+Notes: Strength is one of the strongest combat potions for melee fighting.
+
+## Potion of Swiftness
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Sugar.
+Effect: Increases movement speed.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Traveling, escaping danger, exploring, and PvP.
+Notes: Swiftness helps the player move faster on land.
+
+## Potion of Slowness
+Category: Negative potion.
+Base potion: Potion of Swiftness or Potion of Leaping.
+Main ingredient: Fermented Spider Eye.
+Effect: Reduces movement speed.
+Can be enhanced: Yes, with glowstone dust in some versions.
+Can be extended: Yes, with redstone dust.
+Useful for: Slowing enemies, traps, PvP, and mob control.
+Notes: Slowness is usually most useful as a splash potion.
+
+## Potion of Leaping
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Rabbit's Foot.
+Effect: Increases jump height and reduces fall damage slightly.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Traversing rough terrain, jumping over obstacles, and exploration.
+Notes: Leaping can help with movement, but it is more situational than Swiftness.
+
+## Potion of Fire Resistance
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Magma Cream.
+Effect: Protects the player from fire and lava damage.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Nether exploration, lava lakes, fighting blazes, and mining near lava.
+Notes: Fire Resistance is one of the most useful potions for surviving in the Nether.
+
+## Potion of Water Breathing
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Pufferfish.
+Effect: Allows the player to breathe underwater.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Ocean monuments, underwater ruins, shipwrecks, underwater caves, and ocean building.
+Notes: Water Breathing is very useful when combined with Respiration and Aqua Affinity gear.
+
+## Potion of Night Vision
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Golden Carrot.
+Effect: Allows the player to see clearly in darkness and underwater.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Caving, night exploration, underwater exploration, and the Nether.
+Notes: Night Vision makes dark areas much easier to navigate.
+
+## Potion of Invisibility
+Category: Positive utility potion.
+Base potion: Potion of Night Vision.
+Main ingredient: Fermented Spider Eye.
+Effect: Makes the player invisible.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Avoiding mobs, sneaking around, multiplayer tricks, and stealth.
+Notes: Armor and held items may still be visible, so the player is not always completely hidden.
+
+## Potion of Poison
+Category: Negative potion.
+Base potion: Awkward Potion.
+Main ingredient: Spider Eye.
+Effect: Gradually reduces health over time but usually does not kill by itself.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Weakening enemies before finishing them.
+Notes: Poison is usually best used as a splash potion against living targets.
+
+## Potion of Weakness
+Category: Negative potion.
+Base potion: Water Bottle or Awkward Potion depending on recipe path.
+Main ingredient: Fermented Spider Eye.
+Effect: Reduces melee attack damage.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Weakening enemies and curing zombie villagers.
+Notes: To cure a zombie villager, apply Weakness and then give it a golden apple.
+
+## Potion of Slow Falling
+Category: Positive potion.
+Base potion: Awkward Potion.
+Main ingredient: Phantom Membrane.
+Effect: Makes the player fall slowly and prevents fall damage.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Exploring the End, fighting the Ender Dragon, building high structures, and surviving falls.
+Notes: Slow Falling is extremely useful in the End because it helps prevent death from being knocked into the air.
+
+## Potion of Turtle Master
+Category: Mixed potion.
+Base potion: Awkward Potion.
+Main ingredient: Turtle Shell.
+Effect: Gives Resistance but also Slowness.
+Can be enhanced: Yes, with glowstone dust.
+Can be extended: Yes, with redstone dust.
+Useful for: Surviving heavy damage when movement speed is less important.
+Notes: Turtle Master is strong defensively but makes the player move slowly.
+
+## Potion of Luck
+Category: Positive potion.
+Base potion: Not normally brewable in standard survival gameplay.
+Main ingredient: Not normally brewable.
+Effect: Increases the Luck attribute.
+Useful for: Situational loot-related mechanics.
+Notes: Potion of Luck may be obtainable only through commands or specific creative-mode access depending on edition/version.
+
+## Potion of Decay
+Category: Negative potion.
+Base potion: Not normally brewable in standard survival gameplay.
+Main ingredient: Not normally brewable.
+Effect: Gives the Wither effect.
+Useful for: Damaging targets over time.
+Notes: Potion of Decay is mainly associated with Bedrock Edition and is not normally brewed like standard survival potions.
+
+## Potion of Infestation
+Category: Negative or utility potion.
+Base potion: Awkward Potion.
+Main ingredient: Stone.
+Effect: Gives the Infested effect.
+Effect behavior: When an affected entity takes damage, there is a chance for silverfish to spawn.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Traps, chaos effects, combat experiments, and multiplayer pranks.
+Notes: This potion was added with newer Minecraft 1.21-related content.
+
+## Potion of Oozing
+Category: Negative or utility potion.
+Base potion: Awkward Potion.
+Main ingredient: Slime Block.
+Effect: Gives the Oozing effect.
+Effect behavior: When an affected entity dies, slimes can spawn.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Slime-related effects, traps, farms, or multiplayer pranks.
+Notes: This potion was added with newer Minecraft 1.21-related content.
+
+## Potion of Weaving
+Category: Negative or utility potion.
+Base potion: Awkward Potion.
+Main ingredient: Cobweb.
+Effect: Gives the Weaving effect.
+Effect behavior: When an affected entity dies, cobwebs can appear.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Traps, slowing enemies, area control, and multiplayer pranks.
+Notes: This potion was added with newer Minecraft 1.21-related content.
+
+## Potion of Wind Charging
+Category: Negative or utility potion.
+Base potion: Awkward Potion.
+Main ingredient: Breeze Rod.
+Effect: Gives the Wind Charged effect.
+Effect behavior: When an affected entity dies, it releases a burst of wind.
+Can be enhanced: No.
+Can be extended: Yes, with redstone dust.
+Useful for: Knockback effects, traps, combat experiments, and trial chamber-related gameplay.
+Notes: This potion was added with newer Minecraft 1.21-related content.
+
+## Potion of the Turtle Master Extended
+Category: Mixed potion variant.
+Base potion: Potion of Turtle Master.
+Modifier: Redstone Dust.
+Effect: Gives Resistance and Slowness for a longer duration.
+Useful for: Longer defensive situations.
+Notes: The player gains protection but moves slowly.
+
+## Potion of the Turtle Master Strong
+Category: Mixed potion variant.
+Base potion: Potion of Turtle Master.
+Modifier: Glowstone Dust.
+Effect: Gives stronger Resistance and stronger Slowness.
+Useful for: Surviving extremely dangerous damage for a shorter time.
+Notes: Strong Turtle Master is powerful but heavily reduces movement speed.
+
+## Potion of Healing II
+Category: Enhanced positive potion.
+Base potion: Potion of Healing.
+Modifier: Glowstone Dust.
+Effect: Instantly restores more health than the normal Potion of Healing.
+Useful for: Emergency healing during combat.
+Notes: Healing II is often better than normal Healing when quick recovery matters.
+
+## Potion of Harming II
+Category: Enhanced negative potion.
+Base potion: Potion of Harming.
+Modifier: Glowstone Dust.
+Effect: Instantly deals more damage than the normal Potion of Harming.
+Useful for: Splash damage against enemies.
+Notes: Harming II is dangerous against living targets but can heal undead mobs.
+
+## Potion of Strength II
+Category: Enhanced positive potion.
+Base potion: Potion of Strength.
+Modifier: Glowstone Dust.
+Effect: Gives a stronger melee damage boost for a shorter duration.
+Useful for: High-damage combat.
+Notes: Strength II is useful when the player wants maximum damage quickly.
+
+## Potion of Strength Extended
+Category: Extended positive potion.
+Base potion: Potion of Strength.
+Modifier: Redstone Dust.
+Effect: Gives the Strength effect for a longer duration.
+Useful for: Longer fights and exploration.
+Notes: Extended Strength lasts longer but is not as strong as Strength II.
+
+## Potion of Swiftness II
+Category: Enhanced positive potion.
+Base potion: Potion of Swiftness.
+Modifier: Glowstone Dust.
+Effect: Gives a stronger speed boost for a shorter duration.
+Useful for: Fast movement and PvP.
+Notes: Swiftness II is faster but shorter than extended Swiftness.
+
+## Potion of Swiftness Extended
+Category: Extended positive potion.
+Base potion: Potion of Swiftness.
+Modifier: Redstone Dust.
+Effect: Gives the Speed effect for a longer duration.
+Useful for: Long-distance travel.
+Notes: Extended Swiftness is useful for exploration and travel.
+
+## Potion of Regeneration II
+Category: Enhanced positive potion.
+Base potion: Potion of Regeneration.
+Modifier: Glowstone Dust.
+Effect: Restores health faster for a shorter duration.
+Useful for: Emergency combat healing over time.
+Notes: Regeneration II is strong during intense fights.
+
+## Potion of Regeneration Extended
+Category: Extended positive potion.
+Base potion: Potion of Regeneration.
+Modifier: Redstone Dust.
+Effect: Restores health over a longer duration.
+Useful for: Longer survival situations.
+Notes: Extended Regeneration is useful when damage is expected over time.
+
+## Potion of Poison II
+Category: Enhanced negative potion.
+Base potion: Potion of Poison.
+Modifier: Glowstone Dust.
+Effect: Damages the target faster for a shorter duration.
+Useful for: Weakening enemies quickly.
+Notes: Poison usually does not kill by itself, so another attack may be needed.
+
+## Potion of Poison Extended
+Category: Extended negative potion.
+Base potion: Potion of Poison.
+Modifier: Redstone Dust.
+Effect: Applies poison for a longer duration.
+Useful for: Wearing down enemies over time.
+Notes: Extended Poison is usually most useful as a splash potion.
+
+## Potion of Night Vision Extended
+Category: Extended positive potion.
+Base potion: Potion of Night Vision.
+Modifier: Redstone Dust.
+Effect: Gives Night Vision for a longer duration.
+Useful for: Long cave trips, underwater exploration, and Nether exploration.
+Notes: Night Vision cannot normally be strengthened with glowstone.
+
+## Potion of Invisibility Extended
+Category: Extended positive utility potion.
+Base potion: Potion of Invisibility.
+Modifier: Redstone Dust.
+Effect: Gives Invisibility for a longer duration.
+Useful for: Longer stealth situations.
+Notes: Wearing visible armor can still reveal the player's position.
+
+## Potion of Fire Resistance Extended
+Category: Extended positive potion.
+Base potion: Potion of Fire Resistance.
+Modifier: Redstone Dust.
+Effect: Gives Fire Resistance for a longer duration.
+Useful for: Long Nether trips and lava exploration.
+Notes: Fire Resistance cannot normally be strengthened with glowstone.
+
+## Potion of Water Breathing Extended
+Category: Extended positive potion.
+Base potion: Potion of Water Breathing.
+Modifier: Redstone Dust.
+Effect: Gives Water Breathing for a longer duration.
+Useful for: Long underwater exploration and building.
+Notes: Water Breathing cannot normally be strengthened with glowstone.
+
+## Potion of Slow Falling Extended
+Category: Extended positive potion.
+Base potion: Potion of Slow Falling.
+Modifier: Redstone Dust.
+Effect: Gives Slow Falling for a longer duration.
+Useful for: End exploration, Ender Dragon fights, and high building projects.
+Notes: Slow Falling cannot normally be strengthened with glowstone.
+
+## Potion of Leaping II
+Category: Enhanced positive potion.
+Base potion: Potion of Leaping.
+Modifier: Glowstone Dust.
+Effect: Gives a stronger jump boost for a shorter duration.
+Useful for: Jumping over obstacles and movement tricks.
+Notes: Leaping II has a stronger effect but shorter duration.
+
+## Potion of Leaping Extended
+Category: Extended positive potion.
+Base potion: Potion of Leaping.
+Modifier: Redstone Dust.
+Effect: Gives Jump Boost for a longer duration.
+Useful for: Longer exploration or movement-focused gameplay.
+Notes: Extended Leaping lasts longer but is not as strong as Leaping II.
+
+## Potion of Slowness Extended
+Category: Extended negative potion.
+Base potion: Potion of Slowness.
+Modifier: Redstone Dust.
+Effect: Slows the target for a longer duration.
+Useful for: Traps, PvP, and slowing enemies.
+Notes: Slowness is usually more practical as a splash potion.
+
+## Potion of Weakness Extended
+Category: Extended negative potion.
+Base potion: Potion of Weakness.
+Modifier: Redstone Dust.
+Effect: Reduces melee attack damage for a longer duration.
+Useful for: Curing zombie villagers and weakening enemies.
+Notes: Extended Weakness gives more time to cure zombie villagers.
+
+## Brewing Helpful Potion Order
+Category: Brewing guide.
+Recommended order: Start with Water Bottles, add Nether Wart to create Awkward Potions, then add the main ingredient for the desired effect.
+Example: Water Bottle plus Nether Wart creates Awkward Potion. Awkward Potion plus Magma Cream creates Potion of Fire Resistance.
+Notes: Add redstone for longer duration, glowstone for stronger effect, gunpowder for splash form, and dragon's breath for lingering form.
+
+## Potion Brewing Safety Tips
+Category: Brewing guide.
+Tip: Use Fire Resistance before exploring lava-heavy Nether areas.
+Tip: Use Water Breathing before exploring ocean monuments or underwater caves.
+Tip: Use Slow Falling before fighting the Ender Dragon.
+Tip: Use Strength and Regeneration before boss fights.
+Tip: Use Splash Weakness and a golden apple to cure zombie villagers.
+Notes: Potions are most useful when prepared before dangerous situations.

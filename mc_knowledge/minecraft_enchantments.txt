@@ -1,0 +1,357 @@
+# Minecraft Enchantments Knowledge Base
+
+## Aqua Affinity
+Category: Armor enchantment.
+Applies to: Helmet.
+Maximum level: I.
+Effect: Increases underwater mining speed.
+Useful for: Mining blocks underwater more comfortably.
+Notes: Aqua Affinity is useful when exploring oceans, underwater ruins, shipwrecks, or building underwater bases.
+
+## Bane of Arthropods
+Category: Weapon enchantment.
+Applies to: Sword and axe.
+Maximum level: V.
+Effect: Increases damage dealt to arthropod mobs.
+Useful for: Fighting spiders, cave spiders, silverfish, endermites, and bees.
+Incompatible with: Sharpness, Smite, Density, and Breach depending on the item/version.
+Notes: This enchantment is very situational because it only helps against arthropod-type mobs.
+
+## Blast Protection
+Category: Armor enchantment.
+Applies to: Armor.
+Maximum level: IV.
+Effect: Reduces damage from explosions.
+Useful for: Surviving creepers, TNT, beds exploding in the Nether or End, respawn anchors, and ghast fireballs.
+Incompatible with: Protection, Fire Protection, and Projectile Protection.
+Notes: Blast Protection is useful if the player often fights creepers or works with explosives.
+
+## Breach
+Category: Mace enchantment.
+Applies to: Mace.
+Maximum level: IV.
+Effect: Reduces the effectiveness of the target's armor when hit with a mace.
+Useful for: Fighting armored enemies.
+Incompatible with: Density, Smite, and Bane of Arthropods.
+Notes: Breach is mainly useful for mace combat.
+
+## Channeling
+Category: Trident enchantment.
+Applies to: Trident.
+Maximum level: I.
+Effect: Summons lightning when a thrown trident hits a mob during a thunderstorm.
+Useful for: Creating charged creepers, converting villagers into witches, converting pigs into zombified piglins, and using lightning-based effects.
+Incompatible with: Riptide.
+Notes: Channeling only works during thunderstorms and when the target is exposed to the sky.
+
+## Curse of Binding
+Category: Curse enchantment.
+Applies to: Wearable items such as armor.
+Maximum level: I.
+Effect: Prevents the cursed item from being removed after it is equipped.
+Useful for: Mostly used as a trap or challenge mechanic.
+Notes: The item usually cannot be removed until it breaks or the player dies, depending on game rules and mode.
+
+## Curse of Vanishing
+Category: Curse enchantment.
+Applies to: Most enchantable items.
+Maximum level: I.
+Effect: Causes the item to disappear when the player dies.
+Useful for: Mostly used as a curse or challenge mechanic.
+Notes: Curse of Vanishing is usually undesirable because it makes items permanently disappear after death.
+
+## Density
+Category: Mace enchantment.
+Applies to: Mace.
+Maximum level: V.
+Effect: Increases mace damage based on falling distance.
+Useful for: Attacking enemies after falling from a height.
+Incompatible with: Breach, Smite, and Bane of Arthropods.
+Notes: Density is useful for players who use the mace's smash attack mechanics.
+
+## Depth Strider
+Category: Armor enchantment.
+Applies to: Boots.
+Maximum level: III.
+Effect: Increases underwater movement speed.
+Useful for: Swimming, underwater exploration, ocean monuments, and underwater building.
+Incompatible with: Frost Walker.
+Notes: Depth Strider makes movement underwater much less slow.
+
+## Efficiency
+Category: Tool enchantment.
+Applies to: Pickaxe, axe, shovel, hoe, and shears.
+Maximum level: V.
+Effect: Increases mining or block-breaking speed.
+Useful for: Mining, digging, chopping trees, and general resource gathering.
+Notes: Efficiency V is one of the most useful tool enchantments for long-term survival gameplay.
+
+## Feather Falling
+Category: Armor enchantment.
+Applies to: Boots.
+Maximum level: IV.
+Effect: Reduces fall damage.
+Useful for: Exploring mountains, caves, the End, and tall structures.
+Notes: Feather Falling is one of the best boot enchantments because fall damage is a common cause of death.
+
+## Fire Aspect
+Category: Weapon enchantment.
+Applies to: Sword.
+Maximum level: II.
+Effect: Sets targets on fire when hit.
+Useful for: Dealing extra fire damage and cooking some animal drops automatically.
+Notes: Fire Aspect can be annoying when fighting Endermen because burning Endermen may teleport away.
+
+## Fire Protection
+Category: Armor enchantment.
+Applies to: Armor.
+Maximum level: IV.
+Effect: Reduces fire and lava damage.
+Useful for: Nether exploration, fighting blazes, and surviving lava accidents.
+Incompatible with: Protection, Blast Protection, and Projectile Protection.
+Notes: Fire Protection is useful in the Nether, but general Protection is usually more flexible.
+
+## Flame
+Category: Bow enchantment.
+Applies to: Bow.
+Maximum level: I.
+Effect: Makes arrows set targets on fire.
+Useful for: Burning mobs from a distance and dealing extra damage over time.
+Notes: Flame does not work the same as Fire Aspect because it is specifically for bows.
+
+## Fortune
+Category: Tool enchantment.
+Applies to: Pickaxe, axe, shovel, and hoe.
+Maximum level: III.
+Effect: Increases drops from certain blocks.
+Useful for: Mining diamonds, coal, emeralds, lapis lazuli, redstone, nether quartz, and some crops.
+Incompatible with: Silk Touch.
+Notes: Fortune III is highly valuable for mining ores that drop items instead of blocks.
+
+## Frost Walker
+Category: Armor enchantment.
+Applies to: Boots.
+Maximum level: II.
+Effect: Freezes nearby water into temporary frosted ice when the player walks over it.
+Useful for: Crossing oceans, rivers, and lakes without a boat.
+Incompatible with: Depth Strider.
+Notes: Frost Walker is useful for travel but can be inconvenient near farms or water builds.
+
+## Impaling
+Category: Trident enchantment.
+Applies to: Trident.
+Maximum level: V.
+Effect: Increases trident damage against aquatic mobs or wet targets depending on the edition.
+Useful for: Ocean combat and trident fighting.
+Notes: The exact behavior of Impaling can differ between Java Edition and Bedrock Edition.
+
+## Infinity
+Category: Bow enchantment.
+Applies to: Bow.
+Maximum level: I.
+Effect: Allows the bow to shoot arrows without consuming normal arrows, as long as the player has at least one arrow.
+Useful for: Long-range combat without needing many arrows.
+Incompatible with: Mending.
+Notes: Infinity does not apply to special arrows such as tipped arrows or spectral arrows in the same way as normal arrows.
+
+## Knockback
+Category: Weapon enchantment.
+Applies to: Sword.
+Maximum level: II.
+Effect: Increases the distance enemies are knocked back when hit.
+Useful for: Keeping mobs away from the player.
+Notes: Knockback can be useful defensively, but it can also make combat annoying by pushing enemies out of reach.
+
+## Looting
+Category: Weapon enchantment.
+Applies to: Sword.
+Maximum level: III.
+Effect: Increases the number or chance of drops from mobs.
+Useful for: Farming mob drops such as ender pearls, blaze rods, gunpowder, bones, string, and rare drops.
+Notes: Looting III is one of the best sword enchantments for resource farming.
+
+## Loyalty
+Category: Trident enchantment.
+Applies to: Trident.
+Maximum level: III.
+Effect: Makes a thrown trident return to the player.
+Useful for: Using a trident as a reusable ranged weapon.
+Incompatible with: Riptide.
+Notes: Higher levels make the trident return faster.
+
+## Luck of the Sea
+Category: Fishing rod enchantment.
+Applies to: Fishing rod.
+Maximum level: III.
+Effect: Increases the chance of getting treasure while fishing.
+Useful for: Fishing for enchanted books, name tags, saddles, and other treasure items.
+Notes: Luck of the Sea is usually paired with Lure for better fishing.
+
+## Lure
+Category: Fishing rod enchantment.
+Applies to: Fishing rod.
+Maximum level: III.
+Effect: Decreases the waiting time before fish bite.
+Useful for: Faster fishing.
+Notes: Lure helps speed up fishing sessions.
+
+## Mending
+Category: Treasure enchantment.
+Applies to: Many tools, weapons, and armor pieces.
+Maximum level: I.
+Effect: Uses experience orbs to repair the item instead of adding experience to the player's level.
+Useful for: Keeping valuable gear repaired permanently.
+Incompatible with: Infinity on bows.
+Notes: Mending is one of the most valuable enchantments in survival mode.
+
+## Multishot
+Category: Crossbow enchantment.
+Applies to: Crossbow.
+Maximum level: I.
+Effect: Shoots three projectiles at once while consuming only one projectile.
+Useful for: Hitting multiple enemies or increasing spread.
+Incompatible with: Piercing.
+Notes: Multishot works with arrows and firework rockets.
+
+## Piercing
+Category: Crossbow enchantment.
+Applies to: Crossbow.
+Maximum level: IV.
+Effect: Allows arrows fired from a crossbow to pass through multiple entities.
+Useful for: Fighting groups of enemies in a line.
+Incompatible with: Multishot.
+Notes: Higher levels allow the projectile to pierce through more targets.
+
+## Power
+Category: Bow enchantment.
+Applies to: Bow.
+Maximum level: V.
+Effect: Increases arrow damage.
+Useful for: Stronger ranged attacks.
+Notes: Power V is one of the most important bow enchantments.
+
+## Projectile Protection
+Category: Armor enchantment.
+Applies to: Armor.
+Maximum level: IV.
+Effect: Reduces damage from projectiles.
+Useful for: Fighting skeletons, pillagers, ghasts, shulkers, and other ranged attackers.
+Incompatible with: Protection, Fire Protection, and Blast Protection.
+Notes: Projectile Protection is useful in ranged combat, but general Protection is more flexible.
+
+## Protection
+Category: Armor enchantment.
+Applies to: Armor.
+Maximum level: IV.
+Effect: Reduces many types of damage.
+Useful for: General survival protection.
+Incompatible with: Fire Protection, Blast Protection, and Projectile Protection.
+Notes: Protection IV is usually the most flexible armor protection enchantment.
+
+## Punch
+Category: Bow enchantment.
+Applies to: Bow.
+Maximum level: II.
+Effect: Increases arrow knockback.
+Useful for: Keeping enemies away from the player.
+Notes: Punch can be useful defensively, but it can also push targets farther away.
+
+## Quick Charge
+Category: Crossbow enchantment.
+Applies to: Crossbow.
+Maximum level: III.
+Effect: Reduces crossbow reload time.
+Useful for: Firing crossbows more quickly.
+Notes: Quick Charge III makes the crossbow much faster to use.
+
+## Respiration
+Category: Armor enchantment.
+Applies to: Helmet.
+Maximum level: III.
+Effect: Extends underwater breathing time.
+Useful for: Underwater exploration, ocean monuments, and underwater building.
+Notes: Respiration is often paired with Aqua Affinity.
+
+## Riptide
+Category: Trident enchantment.
+Applies to: Trident.
+Maximum level: III.
+Effect: Launches the player forward when the trident is used in water or rain.
+Useful for: Fast travel in rain, oceans, and watery areas.
+Incompatible with: Channeling and Loyalty.
+Notes: Riptide changes the trident from a thrown weapon into a mobility tool.
+
+## Sharpness
+Category: Weapon enchantment.
+Applies to: Sword and axe.
+Maximum level: V.
+Effect: Increases general melee damage.
+Useful for: Fighting most mobs and players.
+Incompatible with: Smite, Bane of Arthropods, Density, and Breach depending on the item/version.
+Notes: Sharpness is the most general-purpose damage enchantment.
+
+## Silk Touch
+Category: Tool enchantment.
+Applies to: Pickaxe, axe, shovel, and hoe.
+Maximum level: I.
+Effect: Makes blocks drop themselves instead of their usual drops.
+Useful for: Collecting blocks such as glass, ice, bookshelves, grass blocks, ores, and other special blocks.
+Incompatible with: Fortune.
+Notes: Silk Touch is useful when the player wants the original block instead of its drops.
+
+## Smite
+Category: Weapon enchantment.
+Applies to: Sword and axe.
+Maximum level: V.
+Effect: Increases damage against undead mobs.
+Useful for: Fighting zombies, skeletons, wither skeletons, drowned, husks, strays, zombified piglins, phantoms, and the Wither.
+Incompatible with: Sharpness, Bane of Arthropods, Density, and Breach depending on the item/version.
+Notes: Smite V is very strong against undead mobs.
+
+## Soul Speed
+Category: Treasure armor enchantment.
+Applies to: Boots.
+Maximum level: III.
+Effect: Increases movement speed on soul sand and soul soil.
+Useful for: Nether travel, especially in soul sand valleys.
+Notes: Soul Speed can reduce boot durability while used.
+
+## Sweeping Edge
+Category: Weapon enchantment.
+Applies to: Sword.
+Maximum level: III.
+Effect: Increases sweeping attack damage.
+Useful for: Fighting groups of mobs.
+Notes: Sweeping Edge is available in Java Edition and is related to sword sweep attacks.
+
+## Swift Sneak
+Category: Treasure armor enchantment.
+Applies to: Leggings.
+Maximum level: III.
+Effect: Increases movement speed while sneaking.
+Useful for: Ancient cities, bridging, building, and moving carefully without standing up.
+Notes: Swift Sneak is especially useful in the Deep Dark where sneaking helps avoid vibrations.
+
+## Thorns
+Category: Armor enchantment.
+Applies to: Armor.
+Maximum level: III.
+Effect: Gives attackers a chance to take damage when they hit the wearer.
+Useful for: Passive retaliation against enemies.
+Notes: Thorns can reduce armor durability faster.
+
+## Unbreaking
+Category: Durability enchantment.
+Applies to: Most tools, weapons, and armor.
+Maximum level: III.
+Effect: Increases item durability by giving the item a chance not to lose durability when used.
+Useful for: Making gear last longer.
+Notes: Unbreaking III is useful on almost every important item.
+
+## Wind Burst
+Category: Mace enchantment.
+Applies to: Mace.
+Maximum level: III.
+Effect: Launches the player upward after hitting an enemy with a mace smash attack.
+Useful for: Chaining mace attacks and mobility after successful smash hits.
+Notes: Wind Burst is a mace-specific enchantment and is useful for advanced mace movement and combat.
