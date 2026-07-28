@@ -1,5 +1,3 @@
-# src/retriever.py
-
 import re
 import numpy as np
 from rapidfuzz import fuzz
@@ -35,18 +33,6 @@ def get_important_words(text):
 
 
 def title_word_coverage(question_words, title_words, word_threshold=80):
-    """
-    Measures how many important title words are matched by the question.
-
-    Example:
-    question: "how to build nether portal"
-    title: "Nether Portal"
-    coverage = 2/2
-
-    question: "how to build nether portal"
-    title: "Nether Wastes"
-    coverage = 1/2
-    """
 
     if not title_words:
         return 0
@@ -69,15 +55,6 @@ def title_word_coverage(question_words, title_words, word_threshold=80):
 
 
 def fuzzy_title_match(question, chunks, threshold=80, coverage_threshold=0.75):
-    """
-    Try to find a chunk whose title closely matches the user's question.
-
-    This avoids bad matches like:
-    "how to build nether portal" -> "Nether Wastes"
-
-    because "Nether Wastes" only matches one important title word.
-    """
-
     question_normalized = normalize_text(question)
     question_words = get_important_words(question)
 
@@ -125,10 +102,6 @@ def fuzzy_title_match(question, chunks, threshold=80, coverage_threshold=0.75):
 
 
 def build_context_from_chunks(retrieved_chunks):
-    """
-    Convert retrieved chunk dictionaries into one context string
-    that will be sent to the LLM.
-    """
 
     context_parts = []
 
@@ -145,12 +118,6 @@ def build_context_from_chunks(retrieved_chunks):
 
 
 def retrieve_chunks(question, chunks, chunk_embeddings, embedding_model, top_k=3):
-    """
-    Normal embedding-based retrieval.
-
-    This is used when fuzzy title matching does not find
-    a confident title match.
-    """
 
     question_embedding = embedding_model.encode([question])
 
